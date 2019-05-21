@@ -1,0 +1,53 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-24 06:46+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 150525940-0-56983
+msgctxt "150525940-0-56983"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56980
+msgctxt "150525940-0-56980"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56977
+msgctxt "150525940-0-56977"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56974
+msgctxt "150525940-0-56974"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56971
+msgctxt "150525940-0-56971"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56968
+msgctxt "150525940-0-56968"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56965
+msgctxt "150525940-0-56965"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+
+#: 150525940-0-56960
+msgctxt "150525940-0-56960"
+msgid "<Place the goods within the crate.>"
+msgstr "<물건을 상자에 넣는다.>"
+

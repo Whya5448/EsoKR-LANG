@@ -1,0 +1,63 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-02-18 01:17+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 228378404-0-45854
+msgctxt "228378404-0-45854"
+msgid "Kuta"
+msgstr "쿠타"
+
+#: 242841733-0-45854
+msgctxt "242841733-0-45854"
+msgid "Kuta"
+msgstr "쿠타"
+
+#: 228378404-0-45853
+msgctxt "228378404-0-45853"
+msgid "Rekuta"
+msgstr "레쿠타"
+
+#: 242841733-0-45853
+msgctxt "242841733-0-45853"
+msgid "Rekuta"
+msgstr "레쿠타"
+
+#: 228378404-0-45852
+msgctxt "228378404-0-45852"
+msgid "Denata"
+msgstr "데나타"
+
+#: 242841733-0-45852
+msgctxt "242841733-0-45852"
+msgid "Denata"
+msgstr "데나타"
+
+#: 228378404-0-45851
+msgctxt "228378404-0-45851"
+msgid "Jejota"
+msgstr "제조타"
+
+#: 242841733-0-45851
+msgctxt "242841733-0-45851"
+msgid "Jejota"
+msgstr "제조타"
+
+#: 228378404-0-45850
+msgctxt "228378404-0-45850"
+msgid "Ta"
+msgstr "타"
+
+#: 242841733-0-45850
+msgctxt "242841733-0-45850"
+msgid "Ta"
+msgstr "타"
+

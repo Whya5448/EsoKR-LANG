@@ -1,0 +1,23 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-13 07:11+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 242841733-0-94450
+msgctxt "242841733-0-94450"
+msgid "Set Testing Ring"
+msgstr ""
+
+#: 242841733-0-94443
+msgctxt "242841733-0-94443"
+msgid "Set Testing Ring"
+msgstr ""
+

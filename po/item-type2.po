@@ -1,0 +1,1433 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-05-21 04:50+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 112701171-0-1384
+msgctxt "112701171-0-1384"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1383
+msgctxt "112701171-0-1383"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1382
+msgctxt "112701171-0-1382"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1381
+msgctxt "96069573-0-1381"
+msgid "Loner"
+msgstr ""
+
+#: 96069573-0-1378
+msgctxt "96069573-0-1378"
+msgid "Meowbones"
+msgstr ""
+
+#: 96069573-0-1376
+msgctxt "96069573-0-1376"
+msgid "Frostcat Blue"
+msgstr ""
+
+#: 96069573-0-1374
+msgctxt "96069573-0-1374"
+msgid "Misty Princess"
+msgstr ""
+
+#: 11547061-0-137
+msgctxt "11547061-0-137"
+msgid "Basins"
+msgstr "그릇"
+
+#: 112701171-0-1368
+msgctxt "112701171-0-1368"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1367
+msgctxt "112701171-0-1367"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1366
+msgctxt "112701171-0-1366"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1365
+msgctxt "112701171-0-1365"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1364
+msgctxt "112701171-0-1364"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1363
+msgctxt "112701171-0-1363"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1362
+msgctxt "112701171-0-1362"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1361
+msgctxt "96069573-0-1361"
+msgid "Thoraxo"
+msgstr ""
+
+#: 11547061-0-136
+msgctxt "11547061-0-136"
+msgid "Stones and Pebbles"
+msgstr "돌과 자갈"
+
+#: 112701171-0-1357
+msgctxt "112701171-0-1357"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1356
+msgctxt "96069573-0-1356"
+msgid "Death Dappple"
+msgstr ""
+
+#: 112701171-0-1354
+msgctxt "112701171-0-1354"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1353
+msgctxt "112701171-0-1353"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1352
+msgctxt "112701171-0-1352"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1351
+msgctxt "112701171-0-1351"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1350
+msgctxt "112701171-0-1350"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-135
+msgctxt "11547061-0-135"
+msgid "Stools"
+msgstr "스툴"
+
+#: 112701171-0-1348
+msgctxt "112701171-0-1348"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1347
+msgctxt "112701171-0-1347"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1346
+msgctxt "112701171-0-1346"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1345
+msgctxt "96069573-0-1345"
+msgid "Spectre Kitty"
+msgstr ""
+
+#: 112701171-0-1343
+msgctxt "112701171-0-1343"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1342
+msgctxt "112701171-0-1342"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1341
+msgctxt "112701171-0-1341"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1340
+msgctxt "112701171-0-1340"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-134
+msgctxt "11547061-0-134"
+msgid "Benches"
+msgstr "벤치"
+
+#: 112701171-0-1338
+msgctxt "112701171-0-1338"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1337
+msgctxt "96069573-0-1337"
+msgid "Spotless"
+msgstr ""
+
+#: 112701171-0-1333
+msgctxt "112701171-0-1333"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1332
+msgctxt "96069573-0-1332"
+msgid "Ice Loper"
+msgstr ""
+
+#: 96069573-0-1330
+msgctxt "96069573-0-1330"
+msgid "Old Char"
+msgstr ""
+
+#: 112701171-0-1328
+msgctxt "112701171-0-1328"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1327
+msgctxt "112701171-0-1327"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1326
+msgctxt "112701171-0-1326"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1325
+msgctxt "112701171-0-1325"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1324
+msgctxt "112701171-0-1324"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1323
+msgctxt "112701171-0-1323"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1322
+msgctxt "112701171-0-1322"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1321
+msgctxt "112701171-0-1321"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1320
+msgctxt "112701171-0-1320"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-132
+msgctxt "11547061-0-132"
+msgid "Chairs"
+msgstr "의자"
+
+#: 112701171-0-1318
+msgctxt "112701171-0-1318"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1317
+msgctxt "112701171-0-1317"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1316
+msgctxt "112701171-0-1316"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1315
+msgctxt "112701171-0-1315"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1314
+msgctxt "112701171-0-1314"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1313
+msgctxt "112701171-0-1313"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1312
+msgctxt "96069573-0-1312"
+msgid "Coldharbour Island"
+msgstr ""
+
+#: 112701171-0-1307
+msgctxt "112701171-0-1307"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1306
+msgctxt "112701171-0-1306"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1305
+msgctxt "112701171-0-1305"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1304
+msgctxt "112701171-0-1304"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1303
+msgctxt "96069573-0-1303"
+msgid "Flame Leaper"
+msgstr "화염 도약자"
+
+#: 112701171-0-1301
+msgctxt "112701171-0-1301"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1300
+msgctxt "112701171-0-1300"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-130
+msgctxt "11547061-0-130"
+msgid "Aquatic"
+msgstr "수생"
+
+#: 112701171-0-1298
+msgctxt "112701171-0-1298"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1297
+msgctxt "112701171-0-1297"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1296
+msgctxt "112701171-0-1296"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1295
+msgctxt "112701171-0-1295"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1294
+msgctxt "112701171-0-1294"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1293
+msgctxt "112701171-0-1293"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1292
+msgctxt "112701171-0-1292"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1291
+msgctxt "112701171-0-1291"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1290
+msgctxt "112701171-0-1290"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-129
+msgctxt "11547061-0-129"
+msgid "Candles"
+msgstr "양초"
+
+#: 112701171-0-1288
+msgctxt "112701171-0-1288"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1287
+msgctxt "112701171-0-1287"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1286
+msgctxt "112701171-0-1286"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1285
+msgctxt "112701171-0-1285"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1284
+msgctxt "112701171-0-1284"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1283
+msgctxt "112701171-0-1283"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1282
+msgctxt "112701171-0-1282"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1281
+msgctxt "112701171-0-1281"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1280
+msgctxt "112701171-0-1280"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 41983653-0-128
+msgctxt "41983653-0-128"
+msgid "shadowspun"
+msgstr "그림자 천"
+
+#: 112701171-0-1278
+msgctxt "112701171-0-1278"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1277
+msgctxt "112701171-0-1277"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1276
+msgctxt "112701171-0-1276"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1275
+msgctxt "112701171-0-1275"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1274
+msgctxt "112701171-0-1274"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1273
+msgctxt "112701171-0-1273"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1272
+msgctxt "112701171-0-1272"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1271
+msgctxt "112701171-0-1271"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1270
+msgctxt "112701171-0-1270"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-127
+msgctxt "11547061-0-127"
+msgid "Fires"
+msgstr "화톳불"
+
+#: 112701171-0-1268
+msgctxt "112701171-0-1268"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1267
+msgctxt "112701171-0-1267"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1266
+msgctxt "112701171-0-1266"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1265
+msgctxt "112701171-0-1265"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1264
+msgctxt "112701171-0-1264"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1263
+msgctxt "112701171-0-1263"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1262
+msgctxt "112701171-0-1262"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1261
+msgctxt "112701171-0-1261"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1260
+msgctxt "112701171-0-1260"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-126
+msgctxt "11547061-0-126"
+msgid "Enchanted Lights"
+msgstr "매혹적인 조명"
+
+#: 112701171-0-1258
+msgctxt "112701171-0-1258"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1257
+msgctxt "112701171-0-1257"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1256
+msgctxt "112701171-0-1256"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1255
+msgctxt "112701171-0-1255"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1254
+msgctxt "96069573-0-1254"
+msgid "Gruffgears"
+msgstr ""
+
+#: 112701171-0-1248
+msgctxt "112701171-0-1248"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1247
+msgctxt "112701171-0-1247"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1246
+msgctxt "112701171-0-1246"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1245
+msgctxt "96069573-0-1245"
+msgid "Telvanni Home"
+msgstr ""
+
+#: 11547061-0-124
+msgctxt "11547061-0-124"
+msgid "Braziers"
+msgstr "화로"
+
+#: 112701171-0-1238
+msgctxt "112701171-0-1238"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1237
+msgctxt "112701171-0-1237"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1236
+msgctxt "112701171-0-1236"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1235
+msgctxt "112701171-0-1235"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1234
+msgctxt "112701171-0-1234"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1233
+msgctxt "112701171-0-1233"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1232
+msgctxt "96069573-0-1232"
+msgid "Busybody"
+msgstr ""
+
+#: 112701171-0-1230
+msgctxt "112701171-0-1230"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-123
+msgctxt "11547061-0-123"
+msgid "Sconces"
+msgstr "촛대"
+
+#: 112701171-0-1228
+msgctxt "112701171-0-1228"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1227
+msgctxt "112701171-0-1227"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1226
+msgctxt "112701171-0-1226"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1225
+msgctxt "112701171-0-1225"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1224
+msgctxt "112701171-0-1224"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1223
+msgctxt "112701171-0-1223"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1222
+msgctxt "112701171-0-1222"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1221
+msgctxt "112701171-0-1221"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1220
+msgctxt "112701171-0-1220"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-122
+msgctxt "11547061-0-122"
+msgid "Lightposts"
+msgstr "가로등"
+
+#: 112701171-0-1218
+msgctxt "112701171-0-1218"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1217
+msgctxt "112701171-0-1217"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1216
+msgctxt "112701171-0-1216"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1215
+msgctxt "112701171-0-1215"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1214
+msgctxt "96069573-0-1214"
+msgid "Icepack"
+msgstr ""
+
+#: 112701171-0-1212
+msgctxt "112701171-0-1212"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1211
+msgctxt "112701171-0-1211"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1210
+msgctxt "112701171-0-1210"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-121
+msgctxt "11547061-0-121"
+msgid "Lanterns"
+msgstr "랜턴"
+
+#: 112701171-0-1208
+msgctxt "112701171-0-1208"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1207
+msgctxt "112701171-0-1207"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1206
+msgctxt "112701171-0-1206"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1205
+msgctxt "112701171-0-1205"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1204
+msgctxt "112701171-0-1204"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1203
+msgctxt "112701171-0-1203"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1202
+msgctxt "112701171-0-1202"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1201
+msgctxt "112701171-0-1201"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1200
+msgctxt "112701171-0-1200"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-120
+msgctxt "11547061-0-120"
+msgid "Lamps"
+msgstr "램프"
+
+#: 112701171-0-1198
+msgctxt "112701171-0-1198"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1197
+msgctxt "112701171-0-1197"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1196
+msgctxt "112701171-0-1196"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1195
+msgctxt "112701171-0-1195"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1194
+msgctxt "96069573-0-1194"
+msgid "Stibbons"
+msgstr "스티븐스"
+
+#: 112701171-0-1192
+msgctxt "112701171-0-1192"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1191
+msgctxt "96069573-0-1191"
+msgid "Gruffgears"
+msgstr ""
+
+#: 112701171-0-1182
+msgctxt "112701171-0-1182"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1181
+msgctxt "112701171-0-1181"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1180
+msgctxt "112701171-0-1180"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 11547061-0-118
+msgctxt "11547061-0-118"
+msgid "Bridges"
+msgstr "다리"
+
+#: 112701171-0-1178
+msgctxt "112701171-0-1178"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1177
+msgctxt "112701171-0-1177"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1176
+msgctxt "112701171-0-1176"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1175
+msgctxt "112701171-0-1175"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1174
+msgctxt "96069573-0-1174"
+msgid "Blackwolf"
+msgstr ""
+
+#: 112701171-0-1171
+msgctxt "112701171-0-1171"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1170
+msgctxt "96069573-0-1170"
+msgid "Wirewing"
+msgstr ""
+
+#: 112701171-0-1168
+msgctxt "112701171-0-1168"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1167
+msgctxt "112701171-0-1167"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 112701171-0-1166
+msgctxt "112701171-0-1166"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 40741187-0-1165
+msgctxt "40741187-0-1165"
+msgid "Orc, Metal, Outdoors"
+msgstr ""
+
+#: 96069573-0-1157
+msgctxt "96069573-0-1157"
+msgid "Skaalcat"
+msgstr ""
+
+#: 96069573-0-1155
+msgctxt "96069573-0-1155"
+msgid "Arachnimunculus"
+msgstr ""
+
+#: 112701171-0-1153
+msgctxt "112701171-0-1153"
+msgid "Dyes, Weekly"
+msgstr "염색, 주간"
+
+#: 96069573-0-1152
+msgctxt "96069573-0-1152"
+msgid "Ivory"
+msgstr ""
+
+#: 112701171-0-1150
+msgctxt "112701171-0-1150"
+msgid "Mounts, Horse"
+msgstr "탈것, 말"
+
+#: 11547061-0-115
+msgctxt "11547061-0-115"
+msgid "Blocks"
+msgstr "적목"
+
+#: 96069573-0-1148
+msgctxt "96069573-0-1148"
+msgid "Nightpouncer"
+msgstr ""
+
+#: 96069573-0-1145
+msgctxt "96069573-0-1145"
+msgid "Mzangth"
+msgstr ""
+
+#: 112701171-0-1142
+msgctxt "112701171-0-1142"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1141
+msgctxt "112701171-0-1141"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1140
+msgctxt "112701171-0-1140"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 11547061-0-114
+msgctxt "11547061-0-114"
+msgid "Tents"
+msgstr "천막"
+
+#: 112701171-0-1138
+msgctxt "112701171-0-1138"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1137
+msgctxt "112701171-0-1137"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1136
+msgctxt "112701171-0-1136"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1135
+msgctxt "112701171-0-1135"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1134
+msgctxt "112701171-0-1134"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1133
+msgctxt "112701171-0-1133"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1132
+msgctxt "112701171-0-1132"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1131
+msgctxt "112701171-0-1131"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1130
+msgctxt "112701171-0-1130"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 11547061-0-113
+msgctxt "11547061-0-113"
+msgid "Racks"
+msgstr "선반"
+
+#: 112701171-0-1128
+msgctxt "112701171-0-1128"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1127
+msgctxt "112701171-0-1127"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1126
+msgctxt "112701171-0-1126"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1125
+msgctxt "112701171-0-1125"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1124
+msgctxt "112701171-0-1124"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1123
+msgctxt "112701171-0-1123"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1122
+msgctxt "112701171-0-1122"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1121
+msgctxt "112701171-0-1121"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1120
+msgctxt "112701171-0-1120"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 11547061-0-112
+msgctxt "11547061-0-112"
+msgid "Vines"
+msgstr "덩쿨"
+
+#: 112701171-0-1118
+msgctxt "112701171-0-1118"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1117
+msgctxt "112701171-0-1117"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1116
+msgctxt "112701171-0-1116"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1115
+msgctxt "112701171-0-1115"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1114
+msgctxt "112701171-0-1114"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1113
+msgctxt "112701171-0-1113"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1112
+msgctxt "112701171-0-1112"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1111
+msgctxt "112701171-0-1111"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1110
+msgctxt "112701171-0-1110"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 11547061-0-111
+msgctxt "11547061-0-111"
+msgid "Flowers"
+msgstr "꽃"
+
+#: 112701171-0-1108
+msgctxt "112701171-0-1108"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1107
+msgctxt "112701171-0-1107"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1106
+msgctxt "112701171-0-1106"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1105
+msgctxt "112701171-0-1105"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1104
+msgctxt "112701171-0-1104"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1103
+msgctxt "112701171-0-1103"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1102
+msgctxt "112701171-0-1102"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1101
+msgctxt "112701171-0-1101"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 96069573-0-1100
+msgctxt "96069573-0-1100"
+msgid "Craglorn Estate"
+msgstr ""
+
+#: 40741187-0-1058
+msgctxt "40741187-0-1058"
+msgid "Orc, Wood, Sittable"
+msgstr ""
+
+#: 112701171-0-1056
+msgctxt "112701171-0-1056"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1055
+msgctxt "112701171-0-1055"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1054
+msgctxt "112701171-0-1054"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1053
+msgctxt "112701171-0-1053"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1052
+msgctxt "112701171-0-1052"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1051
+msgctxt "112701171-0-1051"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1050
+msgctxt "112701171-0-1050"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 11547061-0-105
+msgctxt "11547061-0-105"
+msgid "Incense"
+msgstr "향초"
+
+#: 112701171-0-1048
+msgctxt "112701171-0-1048"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1047
+msgctxt "112701171-0-1047"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1046
+msgctxt "112701171-0-1046"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1045
+msgctxt "112701171-0-1045"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1044
+msgctxt "112701171-0-1044"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1043
+msgctxt "112701171-0-1043"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1042
+msgctxt "112701171-0-1042"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1041
+msgctxt "112701171-0-1041"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1040
+msgctxt "112701171-0-1040"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 11547061-0-104
+msgctxt "11547061-0-104"
+msgid "Crafting Stations"
+msgstr "제작대"
+
+#: 112701171-0-1038
+msgctxt "112701171-0-1038"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1037
+msgctxt "112701171-0-1037"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1036
+msgctxt "112701171-0-1036"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1035
+msgctxt "112701171-0-1035"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1034
+msgctxt "112701171-0-1034"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1033
+msgctxt "112701171-0-1033"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1032
+msgctxt "112701171-0-1032"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1031
+msgctxt "112701171-0-1031"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1030
+msgctxt "112701171-0-1030"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 41983653-0-103
+msgctxt "41983653-0-103"
+msgid "inferior"
+msgstr "열등한"
+
+#: 112701171-0-1028
+msgctxt "112701171-0-1028"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1027
+msgctxt "112701171-0-1027"
+msgid "Character, Adornments"
+msgstr "캐릭터, 장식품"
+
+#: 112701171-0-1026
+msgctxt "112701171-0-1026"
+msgid "Pets, Pets"
+msgstr "애완동물, 애완동물"
+
+#: 112701171-0-1025
+msgctxt "112701171-0-1025"
+msgid "Account, Event"
+msgstr ""
+
+#: 112701171-0-1024
+msgctxt "112701171-0-1024"
+msgid "Utility, Riding Lessons"
+msgstr "다용도품, Riding Lessons"
+
+#: 112701171-0-1023
+msgctxt "112701171-0-1023"
+msgid "Utility, Riding Lessons"
+msgstr "다용도품, Riding Lessons"
+
+#: 112701171-0-1022
+msgctxt "112701171-0-1022"
+msgid "Utility, Riding Lessons"
+msgstr "다용도품, Riding Lessons"
+
+#: 112701171-0-1021
+msgctxt "112701171-0-1021"
+msgid "Crafting, Mimic Stones"
+msgstr "제작, 미믹 스톤"
+
+#: 112701171-0-1020
+msgctxt "112701171-0-1020"
+msgid "Utility, Poisons"
+msgstr "다용도품, Poisons"
+
+#: 41983653-0-102
+msgctxt "41983653-0-102"
+msgid "trifling"
+msgstr "티끌만한"
+
+#: 112701171-0-1018
+msgctxt "112701171-0-1018"
+msgid "Character, Bundle"
+msgstr "캐릭터, 번들"
+
+#: 112701171-0-1017
+msgctxt "112701171-0-1017"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1016
+msgctxt "112701171-0-1016"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1015
+msgctxt "112701171-0-1015"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1014
+msgctxt "112701171-0-1014"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1013
+msgctxt "112701171-0-1013"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1012
+msgctxt "112701171-0-1012"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1011
+msgctxt "112701171-0-1011"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1010
+msgctxt "112701171-0-1010"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 41983653-0-101
+msgctxt "41983653-0-101"
+msgid "secret"
+msgstr "비밀스러운"
+
+#: 112701171-0-1008
+msgctxt "112701171-0-1008"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1007
+msgctxt "112701171-0-1007"
+msgid "Wardrobe, Hats"
+msgstr "와드로브, 모자"
+
+#: 112701171-0-1006
+msgctxt "112701171-0-1006"
+msgid "Character, Hair Styles"
+msgstr "캐릭터, 머리 스타일"
+
+#: 112701171-0-1005
+msgctxt "112701171-0-1005"
+msgid "Character, Hair Styles"
+msgstr "캐릭터, 머리 스타일"
+
+#: 112701171-0-1004
+msgctxt "112701171-0-1004"
+msgid "Character, Hair Styles"
+msgstr "캐릭터, 머리 스타일"
+
+#: 112701171-0-1003
+msgctxt "112701171-0-1003"
+msgid "Character, Hair Styles"
+msgstr "캐릭터, 머리 스타일"
+
+#: 112701171-0-1002
+msgctxt "112701171-0-1002"
+msgid "Character, Hair Styles"
+msgstr "캐릭터, 머리 스타일"
+
+#: 112701171-0-1001
+msgctxt "112701171-0-1001"
+msgid "Character, Hair Styles"
+msgstr "캐릭터, 머리 스타일"
+
+#: 112701171-0-1000
+msgctxt "112701171-0-1000"
+msgid "Wardrobe, Costumes"
+msgstr "와드로브, 코스튬"
+
+#: 41983653-0-100
+msgctxt "41983653-0-100"
+msgid "unexplained"
+msgstr "설명할 수 없는"
+

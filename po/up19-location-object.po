@@ -1,0 +1,54 @@
+# So11omon <gudrmsakstp@naver.com>, 2019. #zanata
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-05-08 05:27+0000\n"
+"Last-Translator: So11omon <gudrmsakstp@naver.com>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 10860933-0-2118
+msgctxt "10860933-0-2118"
+msgid "Grand Psijic Villa"
+msgstr "그랜드 씨직 빌라"
+
+#: 10860933-0-2117
+msgctxt "10860933-0-2117"
+msgid "Hunter's Glade"
+msgstr "사냥꾼의 빈터"
+
+#: 108566804-0-2068
+msgctxt "108566804-0-2068"
+msgid "You've triumphed over Hircine's Great Hunt."
+msgstr ""
+
+#: 129979412-0-2068
+msgctxt "129979412-0-2068"
+msgid "Investigate March of Sacrifices."
+msgstr ""
+
+#: 10860933-0-2067
+msgctxt "10860933-0-2067"
+msgid "Moon Hunter Keep"
+msgstr "달사냥꾼 요새"
+
+#: 108566804-0-2067
+msgctxt "108566804-0-2067"
+msgid "You've defeated Vykosa and her Moon Hunter Pack."
+msgstr "비코사와 문 헌터 무리를 물리쳤습니다."
+
+#: 129979412-0-2067
+msgctxt "129979412-0-2067"
+msgid "Investigate Moon Hunter Keep."
+msgstr "문 헌터 요새 조사하기."
+
+#: 10860933-0-2068
+msgctxt "10860933-0-2068"
+msgid "March of Sacrifices"
+msgstr "희생의 행군"
+

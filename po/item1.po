@@ -1,0 +1,2512 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-05-21 04:50+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 242841733-0-148441
+msgctxt "242841733-0-148441"
+msgid "Senche-raht's Arm Cops"
+msgstr ""
+
+#: 242841733-0-148440
+msgctxt "242841733-0-148440"
+msgid "Senche-raht's Guards"
+msgstr ""
+
+#: 242841733-0-148439
+msgctxt "242841733-0-148439"
+msgid "Senche-raht's Helmet"
+msgstr ""
+
+#: 242841733-0-148438
+msgctxt "242841733-0-148438"
+msgid "Senche-raht's Bracers"
+msgstr ""
+
+#: 242841733-0-148437
+msgctxt "242841733-0-148437"
+msgid "Senche-raht's Boots"
+msgstr ""
+
+#: 242841733-0-148436
+msgctxt "242841733-0-148436"
+msgid "Senche-raht's Jack"
+msgstr ""
+
+#: 242841733-0-148435
+msgctxt "242841733-0-148435"
+msgid "Senche-raht's Sash"
+msgstr ""
+
+#: 242841733-0-148434
+msgctxt "242841733-0-148434"
+msgid "Senche-raht's Epaulets"
+msgstr ""
+
+#: 242841733-0-148433
+msgctxt "242841733-0-148433"
+msgid "Senche-raht's Jerkin"
+msgstr ""
+
+#: 242841733-0-148432
+msgctxt "242841733-0-148432"
+msgid "Senche-raht's Breeches"
+msgstr ""
+
+#: 242841733-0-148431
+msgctxt "242841733-0-148431"
+msgid "Senche-raht's Hat"
+msgstr ""
+
+#: 242841733-0-148430
+msgctxt "242841733-0-148430"
+msgid "Senche-raht's Gloves"
+msgstr ""
+
+#: 242841733-0-148429
+msgctxt "242841733-0-148429"
+msgid "Senche-raht's Shoes"
+msgstr ""
+
+#: 242841733-0-148428
+msgctxt "242841733-0-148428"
+msgid "Senche-raht's Robe"
+msgstr ""
+
+#: 242841733-0-148427
+msgctxt "242841733-0-148427"
+msgid "Senche-raht's Girdle"
+msgstr ""
+
+#: 242841733-0-148426
+msgctxt "242841733-0-148426"
+msgid "Senche-raht's Pauldrons"
+msgstr ""
+
+#: 242841733-0-148425
+msgctxt "242841733-0-148425"
+msgid "Senche-raht's Greaves"
+msgstr ""
+
+#: 242841733-0-148424
+msgctxt "242841733-0-148424"
+msgid "Senche-raht's Helm"
+msgstr ""
+
+#: 242841733-0-148423
+msgctxt "242841733-0-148423"
+msgid "Senche-raht's Gauntlets"
+msgstr ""
+
+#: 242841733-0-148422
+msgctxt "242841733-0-148422"
+msgid "Senche-raht's Sabatons"
+msgstr ""
+
+#: 242841733-0-148421
+msgctxt "242841733-0-148421"
+msgid "Senche-raht's Cuirass"
+msgstr ""
+
+#: 242841733-0-148420
+msgctxt "242841733-0-148420"
+msgid "Senche-raht's Shield"
+msgstr ""
+
+#: 242841733-0-148419
+msgctxt "242841733-0-148419"
+msgid "Senche-raht's Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148418
+msgctxt "242841733-0-148418"
+msgid "Senche-raht's Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148417
+msgctxt "242841733-0-148417"
+msgid "Senche-raht's Frost Staff"
+msgstr ""
+
+#: 242841733-0-148416
+msgctxt "242841733-0-148416"
+msgid "Senche-raht's Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148415
+msgctxt "242841733-0-148415"
+msgid "Senche-raht's Bow"
+msgstr ""
+
+#: 242841733-0-148414
+msgctxt "242841733-0-148414"
+msgid "Senche-raht's Dagger"
+msgstr ""
+
+#: 242841733-0-148413
+msgctxt "242841733-0-148413"
+msgid "Senche-raht's Greatsword"
+msgstr ""
+
+#: 242841733-0-148412
+msgctxt "242841733-0-148412"
+msgid "Senche-raht's Maul"
+msgstr ""
+
+#: 242841733-0-148411
+msgctxt "242841733-0-148411"
+msgid "Senche-raht's Battle Axe"
+msgstr ""
+
+#: 242841733-0-148410
+msgctxt "242841733-0-148410"
+msgid "Senche-raht's Sword"
+msgstr ""
+
+#: 242841733-0-148409
+msgctxt "242841733-0-148409"
+msgid "Senche-raht's Mace"
+msgstr ""
+
+#: 242841733-0-148408
+msgctxt "242841733-0-148408"
+msgid "Senche-raht's Axe"
+msgstr ""
+
+#: 242841733-0-148407
+msgctxt "242841733-0-148407"
+msgid "Senche-raht's Belt"
+msgstr ""
+
+#: 242841733-0-148406
+msgctxt "242841733-0-148406"
+msgid "Senche-raht's Arm Cops"
+msgstr ""
+
+#: 242841733-0-148405
+msgctxt "242841733-0-148405"
+msgid "Senche-raht's Guards"
+msgstr ""
+
+#: 242841733-0-148404
+msgctxt "242841733-0-148404"
+msgid "Senche-raht's Helmet"
+msgstr ""
+
+#: 242841733-0-148403
+msgctxt "242841733-0-148403"
+msgid "Senche-raht's Bracers"
+msgstr ""
+
+#: 242841733-0-148402
+msgctxt "242841733-0-148402"
+msgid "Senche-raht's Boots"
+msgstr ""
+
+#: 242841733-0-148401
+msgctxt "242841733-0-148401"
+msgid "Senche-raht's Jack"
+msgstr ""
+
+#: 242841733-0-148400
+msgctxt "242841733-0-148400"
+msgid "Senche-raht's Sash"
+msgstr ""
+
+#: 242841733-0-148399
+msgctxt "242841733-0-148399"
+msgid "Senche-raht's Epaulets"
+msgstr ""
+
+#: 242841733-0-148398
+msgctxt "242841733-0-148398"
+msgid "Senche-raht's Jerkin"
+msgstr ""
+
+#: 242841733-0-148397
+msgctxt "242841733-0-148397"
+msgid "Senche-raht's Breeches"
+msgstr ""
+
+#: 242841733-0-148396
+msgctxt "242841733-0-148396"
+msgid "Senche-raht's Hat"
+msgstr ""
+
+#: 242841733-0-148395
+msgctxt "242841733-0-148395"
+msgid "Senche-raht's Gloves"
+msgstr ""
+
+#: 242841733-0-148394
+msgctxt "242841733-0-148394"
+msgid "Senche-raht's Shoes"
+msgstr ""
+
+#: 242841733-0-148393
+msgctxt "242841733-0-148393"
+msgid "Senche-raht's Robe"
+msgstr ""
+
+#: 242841733-0-148392
+msgctxt "242841733-0-148392"
+msgid "Senche-raht's Girdle"
+msgstr ""
+
+#: 242841733-0-148391
+msgctxt "242841733-0-148391"
+msgid "Senche-raht's Pauldrons"
+msgstr ""
+
+#: 242841733-0-148390
+msgctxt "242841733-0-148390"
+msgid "Senche-raht's Greaves"
+msgstr ""
+
+#: 242841733-0-148389
+msgctxt "242841733-0-148389"
+msgid "Senche-raht's Helm"
+msgstr ""
+
+#: 242841733-0-148388
+msgctxt "242841733-0-148388"
+msgid "Senche-raht's Gauntlets"
+msgstr ""
+
+#: 242841733-0-148387
+msgctxt "242841733-0-148387"
+msgid "Senche-raht's Sabatons"
+msgstr ""
+
+#: 242841733-0-148386
+msgctxt "242841733-0-148386"
+msgid "Senche-raht's Cuirass"
+msgstr ""
+
+#: 242841733-0-148385
+msgctxt "242841733-0-148385"
+msgid "Senche-raht's Shield"
+msgstr ""
+
+#: 242841733-0-148384
+msgctxt "242841733-0-148384"
+msgid "Senche-raht's Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148383
+msgctxt "242841733-0-148383"
+msgid "Senche-raht's Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148382
+msgctxt "242841733-0-148382"
+msgid "Senche-raht's Frost Staff"
+msgstr ""
+
+#: 242841733-0-148381
+msgctxt "242841733-0-148381"
+msgid "Senche-raht's Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148380
+msgctxt "242841733-0-148380"
+msgid "Senche-raht's Bow"
+msgstr ""
+
+#: 242841733-0-148379
+msgctxt "242841733-0-148379"
+msgid "Senche-raht's Dagger"
+msgstr ""
+
+#: 242841733-0-148378
+msgctxt "242841733-0-148378"
+msgid "Senche-raht's Greatsword"
+msgstr ""
+
+#: 242841733-0-148377
+msgctxt "242841733-0-148377"
+msgid "Senche-raht's Maul"
+msgstr ""
+
+#: 242841733-0-148376
+msgctxt "242841733-0-148376"
+msgid "Senche-raht's Battle Axe"
+msgstr ""
+
+#: 242841733-0-148375
+msgctxt "242841733-0-148375"
+msgid "Senche-raht's Sword"
+msgstr ""
+
+#: 242841733-0-148374
+msgctxt "242841733-0-148374"
+msgid "Senche-raht's Mace"
+msgstr ""
+
+#: 242841733-0-148373
+msgctxt "242841733-0-148373"
+msgid "Senche-raht's Axe"
+msgstr ""
+
+#: 242841733-0-148372
+msgctxt "242841733-0-148372"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148371
+msgctxt "242841733-0-148371"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148370
+msgctxt "242841733-0-148370"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148369
+msgctxt "242841733-0-148369"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148368
+msgctxt "242841733-0-148368"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148367
+msgctxt "242841733-0-148367"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148366
+msgctxt "242841733-0-148366"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148365
+msgctxt "242841733-0-148365"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148364
+msgctxt "242841733-0-148364"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148363
+msgctxt "242841733-0-148363"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148362
+msgctxt "242841733-0-148362"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148361
+msgctxt "242841733-0-148361"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148360
+msgctxt "242841733-0-148360"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148359
+msgctxt "242841733-0-148359"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148358
+msgctxt "242841733-0-148358"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148357
+msgctxt "242841733-0-148357"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148356
+msgctxt "242841733-0-148356"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148355
+msgctxt "242841733-0-148355"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148354
+msgctxt "242841733-0-148354"
+msgid "Senche-raht's Amulet"
+msgstr ""
+
+#: 242841733-0-148353
+msgctxt "242841733-0-148353"
+msgid "Senche-raht's Ring"
+msgstr ""
+
+#: 242841733-0-148352
+msgctxt "242841733-0-148352"
+msgid "Senche-raht's Belt"
+msgstr ""
+
+#: 242841733-0-148351
+msgctxt "242841733-0-148351"
+msgid "Senche-raht's Arm Cops"
+msgstr ""
+
+#: 242841733-0-148350
+msgctxt "242841733-0-148350"
+msgid "Senche-raht's Guards"
+msgstr ""
+
+#: 242841733-0-148349
+msgctxt "242841733-0-148349"
+msgid "Senche-raht's Helmet"
+msgstr ""
+
+#: 242841733-0-148348
+msgctxt "242841733-0-148348"
+msgid "Senche-raht's Bracers"
+msgstr ""
+
+#: 242841733-0-148347
+msgctxt "242841733-0-148347"
+msgid "Senche-raht's Boots"
+msgstr ""
+
+#: 242841733-0-148346
+msgctxt "242841733-0-148346"
+msgid "Senche-raht's Jack"
+msgstr ""
+
+#: 242841733-0-148345
+msgctxt "242841733-0-148345"
+msgid "Senche-raht's Sash"
+msgstr ""
+
+#: 242841733-0-148344
+msgctxt "242841733-0-148344"
+msgid "Senche-raht's Epaulets"
+msgstr ""
+
+#: 242841733-0-148343
+msgctxt "242841733-0-148343"
+msgid "Senche-raht's Jerkin"
+msgstr ""
+
+#: 242841733-0-148342
+msgctxt "242841733-0-148342"
+msgid "Senche-raht's Breeches"
+msgstr ""
+
+#: 242841733-0-148341
+msgctxt "242841733-0-148341"
+msgid "Senche-raht's Hat"
+msgstr ""
+
+#: 242841733-0-148340
+msgctxt "242841733-0-148340"
+msgid "Senche-raht's Gloves"
+msgstr ""
+
+#: 242841733-0-148339
+msgctxt "242841733-0-148339"
+msgid "Senche-raht's Shoes"
+msgstr ""
+
+#: 242841733-0-148338
+msgctxt "242841733-0-148338"
+msgid "Senche-raht's Robe"
+msgstr ""
+
+#: 242841733-0-148337
+msgctxt "242841733-0-148337"
+msgid "Senche-raht's Girdle"
+msgstr ""
+
+#: 242841733-0-148336
+msgctxt "242841733-0-148336"
+msgid "Senche-raht's Pauldrons"
+msgstr ""
+
+#: 242841733-0-148335
+msgctxt "242841733-0-148335"
+msgid "Senche-raht's Greaves"
+msgstr ""
+
+#: 242841733-0-148334
+msgctxt "242841733-0-148334"
+msgid "Senche-raht's Helm"
+msgstr ""
+
+#: 242841733-0-148333
+msgctxt "242841733-0-148333"
+msgid "Senche-raht's Gauntlets"
+msgstr ""
+
+#: 242841733-0-148332
+msgctxt "242841733-0-148332"
+msgid "Senche-raht's Sabatons"
+msgstr ""
+
+#: 242841733-0-148331
+msgctxt "242841733-0-148331"
+msgid "Senche-raht's Cuirass"
+msgstr ""
+
+#: 242841733-0-148330
+msgctxt "242841733-0-148330"
+msgid "Senche-raht's Shield"
+msgstr ""
+
+#: 242841733-0-148329
+msgctxt "242841733-0-148329"
+msgid "Senche-raht's Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148328
+msgctxt "242841733-0-148328"
+msgid "Senche-raht's Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148327
+msgctxt "242841733-0-148327"
+msgid "Senche-raht's Frost Staff"
+msgstr ""
+
+#: 242841733-0-148326
+msgctxt "242841733-0-148326"
+msgid "Senche-raht's Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148325
+msgctxt "242841733-0-148325"
+msgid "Senche-raht's Bow"
+msgstr ""
+
+#: 242841733-0-148324
+msgctxt "242841733-0-148324"
+msgid "Senche-raht's Dagger"
+msgstr ""
+
+#: 242841733-0-148323
+msgctxt "242841733-0-148323"
+msgid "Senche-raht's Greatsword"
+msgstr ""
+
+#: 242841733-0-148322
+msgctxt "242841733-0-148322"
+msgid "Senche-raht's Maul"
+msgstr ""
+
+#: 242841733-0-148321
+msgctxt "242841733-0-148321"
+msgid "Senche-raht's Battle Axe"
+msgstr ""
+
+#: 242841733-0-148320
+msgctxt "242841733-0-148320"
+msgid "Senche-raht's Sword"
+msgstr ""
+
+#: 242841733-0-148319
+msgctxt "242841733-0-148319"
+msgid "Senche-raht's Mace"
+msgstr ""
+
+#: 242841733-0-148318
+msgctxt "242841733-0-148318"
+msgid "Senche-raht's Axe"
+msgstr ""
+
+#: 242841733-0-148317
+msgctxt "242841733-0-148317"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148316
+msgctxt "242841733-0-148316"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148315
+msgctxt "242841733-0-148315"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148314
+msgctxt "242841733-0-148314"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148313
+msgctxt "242841733-0-148313"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148312
+msgctxt "242841733-0-148312"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148311
+msgctxt "242841733-0-148311"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148310
+msgctxt "242841733-0-148310"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148309
+msgctxt "242841733-0-148309"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148308
+msgctxt "242841733-0-148308"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148307
+msgctxt "242841733-0-148307"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148306
+msgctxt "242841733-0-148306"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148305
+msgctxt "242841733-0-148305"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148304
+msgctxt "242841733-0-148304"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148303
+msgctxt "242841733-0-148303"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148302
+msgctxt "242841733-0-148302"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148301
+msgctxt "242841733-0-148301"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148300
+msgctxt "242841733-0-148300"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148299
+msgctxt "242841733-0-148299"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148298
+msgctxt "242841733-0-148298"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148297
+msgctxt "242841733-0-148297"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148296
+msgctxt "242841733-0-148296"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148295
+msgctxt "242841733-0-148295"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148294
+msgctxt "242841733-0-148294"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148293
+msgctxt "242841733-0-148293"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148292
+msgctxt "242841733-0-148292"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148291
+msgctxt "242841733-0-148291"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148290
+msgctxt "242841733-0-148290"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148289
+msgctxt "242841733-0-148289"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148288
+msgctxt "242841733-0-148288"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148287
+msgctxt "242841733-0-148287"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148286
+msgctxt "242841733-0-148286"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148285
+msgctxt "242841733-0-148285"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148284
+msgctxt "242841733-0-148284"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148283
+msgctxt "242841733-0-148283"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148282
+msgctxt "242841733-0-148282"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148281
+msgctxt "242841733-0-148281"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148280
+msgctxt "242841733-0-148280"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148279
+msgctxt "242841733-0-148279"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148278
+msgctxt "242841733-0-148278"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148277
+msgctxt "242841733-0-148277"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148276
+msgctxt "242841733-0-148276"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148275
+msgctxt "242841733-0-148275"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148274
+msgctxt "242841733-0-148274"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148273
+msgctxt "242841733-0-148273"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148272
+msgctxt "242841733-0-148272"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148271
+msgctxt "242841733-0-148271"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148270
+msgctxt "242841733-0-148270"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148269
+msgctxt "242841733-0-148269"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148268
+msgctxt "242841733-0-148268"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148267
+msgctxt "242841733-0-148267"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148266
+msgctxt "242841733-0-148266"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148265
+msgctxt "242841733-0-148265"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148264
+msgctxt "242841733-0-148264"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148263
+msgctxt "242841733-0-148263"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148262
+msgctxt "242841733-0-148262"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148261
+msgctxt "242841733-0-148261"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148260
+msgctxt "242841733-0-148260"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148259
+msgctxt "242841733-0-148259"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148258
+msgctxt "242841733-0-148258"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148257
+msgctxt "242841733-0-148257"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148256
+msgctxt "242841733-0-148256"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148255
+msgctxt "242841733-0-148255"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148254
+msgctxt "242841733-0-148254"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148253
+msgctxt "242841733-0-148253"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148252
+msgctxt "242841733-0-148252"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148251
+msgctxt "242841733-0-148251"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148250
+msgctxt "242841733-0-148250"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148249
+msgctxt "242841733-0-148249"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148248
+msgctxt "242841733-0-148248"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148247
+msgctxt "242841733-0-148247"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148246
+msgctxt "242841733-0-148246"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148245
+msgctxt "242841733-0-148245"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148244
+msgctxt "242841733-0-148244"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148243
+msgctxt "242841733-0-148243"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148242
+msgctxt "242841733-0-148242"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148241
+msgctxt "242841733-0-148241"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148240
+msgctxt "242841733-0-148240"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148239
+msgctxt "242841733-0-148239"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148238
+msgctxt "242841733-0-148238"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148237
+msgctxt "242841733-0-148237"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148236
+msgctxt "242841733-0-148236"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148235
+msgctxt "242841733-0-148235"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148234
+msgctxt "242841733-0-148234"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148233
+msgctxt "242841733-0-148233"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148232
+msgctxt "242841733-0-148232"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148231
+msgctxt "242841733-0-148231"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148230
+msgctxt "242841733-0-148230"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148229
+msgctxt "242841733-0-148229"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148228
+msgctxt "242841733-0-148228"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148227
+msgctxt "242841733-0-148227"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148226
+msgctxt "242841733-0-148226"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148225
+msgctxt "242841733-0-148225"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148224
+msgctxt "242841733-0-148224"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148223
+msgctxt "242841733-0-148223"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148222
+msgctxt "242841733-0-148222"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148221
+msgctxt "242841733-0-148221"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148220
+msgctxt "242841733-0-148220"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148219
+msgctxt "242841733-0-148219"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148218
+msgctxt "242841733-0-148218"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148217
+msgctxt "242841733-0-148217"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148216
+msgctxt "242841733-0-148216"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148215
+msgctxt "242841733-0-148215"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148214
+msgctxt "242841733-0-148214"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148213
+msgctxt "242841733-0-148213"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148212
+msgctxt "242841733-0-148212"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148211
+msgctxt "242841733-0-148211"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148210
+msgctxt "242841733-0-148210"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148209
+msgctxt "242841733-0-148209"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148208
+msgctxt "242841733-0-148208"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148207
+msgctxt "242841733-0-148207"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148206
+msgctxt "242841733-0-148206"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148205
+msgctxt "242841733-0-148205"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148204
+msgctxt "242841733-0-148204"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148203
+msgctxt "242841733-0-148203"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148202
+msgctxt "242841733-0-148202"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148201
+msgctxt "242841733-0-148201"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148200
+msgctxt "242841733-0-148200"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148199
+msgctxt "242841733-0-148199"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148198
+msgctxt "242841733-0-148198"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148197
+msgctxt "242841733-0-148197"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148196
+msgctxt "242841733-0-148196"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148195
+msgctxt "242841733-0-148195"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148194
+msgctxt "242841733-0-148194"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148193
+msgctxt "242841733-0-148193"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148192
+msgctxt "242841733-0-148192"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148191
+msgctxt "242841733-0-148191"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148190
+msgctxt "242841733-0-148190"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148189
+msgctxt "242841733-0-148189"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148188
+msgctxt "242841733-0-148188"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148187
+msgctxt "242841733-0-148187"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148186
+msgctxt "242841733-0-148186"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148185
+msgctxt "242841733-0-148185"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148184
+msgctxt "242841733-0-148184"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148183
+msgctxt "242841733-0-148183"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148182
+msgctxt "242841733-0-148182"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148181
+msgctxt "242841733-0-148181"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148180
+msgctxt "242841733-0-148180"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148179
+msgctxt "242841733-0-148179"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148178
+msgctxt "242841733-0-148178"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148177
+msgctxt "242841733-0-148177"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148176
+msgctxt "242841733-0-148176"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148175
+msgctxt "242841733-0-148175"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148174
+msgctxt "242841733-0-148174"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148173
+msgctxt "242841733-0-148173"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148172
+msgctxt "242841733-0-148172"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148171
+msgctxt "242841733-0-148171"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148170
+msgctxt "242841733-0-148170"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148169
+msgctxt "242841733-0-148169"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148168
+msgctxt "242841733-0-148168"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148167
+msgctxt "242841733-0-148167"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148166
+msgctxt "242841733-0-148166"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148165
+msgctxt "242841733-0-148165"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148164
+msgctxt "242841733-0-148164"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148163
+msgctxt "242841733-0-148163"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148162
+msgctxt "242841733-0-148162"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148161
+msgctxt "242841733-0-148161"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148160
+msgctxt "242841733-0-148160"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148159
+msgctxt "242841733-0-148159"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148158
+msgctxt "242841733-0-148158"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148157
+msgctxt "242841733-0-148157"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148156
+msgctxt "242841733-0-148156"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148155
+msgctxt "242841733-0-148155"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148154
+msgctxt "242841733-0-148154"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148153
+msgctxt "242841733-0-148153"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148152
+msgctxt "242841733-0-148152"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148151
+msgctxt "242841733-0-148151"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148150
+msgctxt "242841733-0-148150"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148149
+msgctxt "242841733-0-148149"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148148
+msgctxt "242841733-0-148148"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148147
+msgctxt "242841733-0-148147"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148146
+msgctxt "242841733-0-148146"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148145
+msgctxt "242841733-0-148145"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148144
+msgctxt "242841733-0-148144"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148143
+msgctxt "242841733-0-148143"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148142
+msgctxt "242841733-0-148142"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148141
+msgctxt "242841733-0-148141"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148140
+msgctxt "242841733-0-148140"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148139
+msgctxt "242841733-0-148139"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148138
+msgctxt "242841733-0-148138"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148137
+msgctxt "242841733-0-148137"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148136
+msgctxt "242841733-0-148136"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148135
+msgctxt "242841733-0-148135"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148134
+msgctxt "242841733-0-148134"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148133
+msgctxt "242841733-0-148133"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148132
+msgctxt "242841733-0-148132"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148131
+msgctxt "242841733-0-148131"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148130
+msgctxt "242841733-0-148130"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148129
+msgctxt "242841733-0-148129"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148128
+msgctxt "242841733-0-148128"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148127
+msgctxt "242841733-0-148127"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148126
+msgctxt "242841733-0-148126"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148125
+msgctxt "242841733-0-148125"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148124
+msgctxt "242841733-0-148124"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148123
+msgctxt "242841733-0-148123"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148122
+msgctxt "242841733-0-148122"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148121
+msgctxt "242841733-0-148121"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148120
+msgctxt "242841733-0-148120"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148119
+msgctxt "242841733-0-148119"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148118
+msgctxt "242841733-0-148118"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148117
+msgctxt "242841733-0-148117"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148116
+msgctxt "242841733-0-148116"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148115
+msgctxt "242841733-0-148115"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148114
+msgctxt "242841733-0-148114"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148113
+msgctxt "242841733-0-148113"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148112
+msgctxt "242841733-0-148112"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148111
+msgctxt "242841733-0-148111"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148110
+msgctxt "242841733-0-148110"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148109
+msgctxt "242841733-0-148109"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148108
+msgctxt "242841733-0-148108"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148107
+msgctxt "242841733-0-148107"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148106
+msgctxt "242841733-0-148106"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148105
+msgctxt "242841733-0-148105"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148104
+msgctxt "242841733-0-148104"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148103
+msgctxt "242841733-0-148103"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148102
+msgctxt "242841733-0-148102"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148101
+msgctxt "242841733-0-148101"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148100
+msgctxt "242841733-0-148100"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148099
+msgctxt "242841733-0-148099"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148098
+msgctxt "242841733-0-148098"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148097
+msgctxt "242841733-0-148097"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148096
+msgctxt "242841733-0-148096"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148095
+msgctxt "242841733-0-148095"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148094
+msgctxt "242841733-0-148094"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148093
+msgctxt "242841733-0-148093"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148092
+msgctxt "242841733-0-148092"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148091
+msgctxt "242841733-0-148091"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148090
+msgctxt "242841733-0-148090"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148089
+msgctxt "242841733-0-148089"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148088
+msgctxt "242841733-0-148088"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148087
+msgctxt "242841733-0-148087"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148086
+msgctxt "242841733-0-148086"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148085
+msgctxt "242841733-0-148085"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148084
+msgctxt "242841733-0-148084"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148083
+msgctxt "242841733-0-148083"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148082
+msgctxt "242841733-0-148082"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148081
+msgctxt "242841733-0-148081"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148080
+msgctxt "242841733-0-148080"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148079
+msgctxt "242841733-0-148079"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148078
+msgctxt "242841733-0-148078"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148077
+msgctxt "242841733-0-148077"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148076
+msgctxt "242841733-0-148076"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148075
+msgctxt "242841733-0-148075"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148074
+msgctxt "242841733-0-148074"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148073
+msgctxt "242841733-0-148073"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148072
+msgctxt "242841733-0-148072"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148071
+msgctxt "242841733-0-148071"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148070
+msgctxt "242841733-0-148070"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148069
+msgctxt "242841733-0-148069"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148068
+msgctxt "242841733-0-148068"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148067
+msgctxt "242841733-0-148067"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148066
+msgctxt "242841733-0-148066"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148065
+msgctxt "242841733-0-148065"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148064
+msgctxt "242841733-0-148064"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148063
+msgctxt "242841733-0-148063"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148062
+msgctxt "242841733-0-148062"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148061
+msgctxt "242841733-0-148061"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148060
+msgctxt "242841733-0-148060"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148059
+msgctxt "242841733-0-148059"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148058
+msgctxt "242841733-0-148058"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148057
+msgctxt "242841733-0-148057"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148056
+msgctxt "242841733-0-148056"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148055
+msgctxt "242841733-0-148055"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148054
+msgctxt "242841733-0-148054"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148053
+msgctxt "242841733-0-148053"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148052
+msgctxt "242841733-0-148052"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148051
+msgctxt "242841733-0-148051"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148050
+msgctxt "242841733-0-148050"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148049
+msgctxt "242841733-0-148049"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148048
+msgctxt "242841733-0-148048"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148047
+msgctxt "242841733-0-148047"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148046
+msgctxt "242841733-0-148046"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148045
+msgctxt "242841733-0-148045"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148044
+msgctxt "242841733-0-148044"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148043
+msgctxt "242841733-0-148043"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148042
+msgctxt "242841733-0-148042"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148041
+msgctxt "242841733-0-148041"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148040
+msgctxt "242841733-0-148040"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148039
+msgctxt "242841733-0-148039"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148038
+msgctxt "242841733-0-148038"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148037
+msgctxt "242841733-0-148037"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-148036
+msgctxt "242841733-0-148036"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-148035
+msgctxt "242841733-0-148035"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-148034
+msgctxt "242841733-0-148034"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-148033
+msgctxt "242841733-0-148033"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-148032
+msgctxt "242841733-0-148032"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-148031
+msgctxt "242841733-0-148031"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-148030
+msgctxt "242841733-0-148030"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-148029
+msgctxt "242841733-0-148029"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-148028
+msgctxt "242841733-0-148028"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-148027
+msgctxt "242841733-0-148027"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-148026
+msgctxt "242841733-0-148026"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-148025
+msgctxt "242841733-0-148025"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-148024
+msgctxt "242841733-0-148024"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-148023
+msgctxt "242841733-0-148023"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-148022
+msgctxt "242841733-0-148022"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-148021
+msgctxt "242841733-0-148021"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-148020
+msgctxt "242841733-0-148020"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-148019
+msgctxt "242841733-0-148019"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-148018
+msgctxt "242841733-0-148018"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-148017
+msgctxt "242841733-0-148017"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-148016
+msgctxt "242841733-0-148016"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-148015
+msgctxt "242841733-0-148015"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-148014
+msgctxt "242841733-0-148014"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-148013
+msgctxt "242841733-0-148013"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-148012
+msgctxt "242841733-0-148012"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-148011
+msgctxt "242841733-0-148011"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-148010
+msgctxt "242841733-0-148010"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-148009
+msgctxt "242841733-0-148009"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-148008
+msgctxt "242841733-0-148008"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-148007
+msgctxt "242841733-0-148007"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-148006
+msgctxt "242841733-0-148006"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-148005
+msgctxt "242841733-0-148005"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-148004
+msgctxt "242841733-0-148004"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-148003
+msgctxt "242841733-0-148003"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 242841733-0-148002
+msgctxt "242841733-0-148002"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-148001
+msgctxt "242841733-0-148001"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-148000
+msgctxt "242841733-0-148000"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147999
+msgctxt "242841733-0-147999"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147998
+msgctxt "242841733-0-147998"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147997
+msgctxt "242841733-0-147997"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147996
+msgctxt "242841733-0-147996"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147995
+msgctxt "242841733-0-147995"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147994
+msgctxt "242841733-0-147994"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147993
+msgctxt "242841733-0-147993"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147992
+msgctxt "242841733-0-147992"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147991
+msgctxt "242841733-0-147991"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147990
+msgctxt "242841733-0-147990"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147989
+msgctxt "242841733-0-147989"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147988
+msgctxt "242841733-0-147988"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147987
+msgctxt "242841733-0-147987"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147986
+msgctxt "242841733-0-147986"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147985
+msgctxt "242841733-0-147985"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147984
+msgctxt "242841733-0-147984"
+msgid "Coldharbour's Favorite Amulet"
+msgstr ""
+
+#: 242841733-0-147983
+msgctxt "242841733-0-147983"
+msgid "Coldharbour's Favorite Ring"
+msgstr ""
+
+#: 242841733-0-147982
+msgctxt "242841733-0-147982"
+msgid "Coldharbour's Favorite Belt"
+msgstr ""
+
+#: 242841733-0-147981
+msgctxt "242841733-0-147981"
+msgid "Coldharbour's Favorite Arm Cops"
+msgstr ""
+
+#: 242841733-0-147980
+msgctxt "242841733-0-147980"
+msgid "Coldharbour's Favorite Guards"
+msgstr ""
+
+#: 242841733-0-147979
+msgctxt "242841733-0-147979"
+msgid "Coldharbour's Favorite Helmet"
+msgstr ""
+
+#: 242841733-0-147978
+msgctxt "242841733-0-147978"
+msgid "Coldharbour's Favorite Bracers"
+msgstr ""
+
+#: 242841733-0-147977
+msgctxt "242841733-0-147977"
+msgid "Coldharbour's Favorite Boots"
+msgstr ""
+
+#: 242841733-0-147976
+msgctxt "242841733-0-147976"
+msgid "Coldharbour's Favorite Jack"
+msgstr ""
+
+#: 242841733-0-147975
+msgctxt "242841733-0-147975"
+msgid "Coldharbour's Favorite Sash"
+msgstr ""
+
+#: 242841733-0-147974
+msgctxt "242841733-0-147974"
+msgid "Coldharbour's Favorite Epaulets"
+msgstr ""
+
+#: 242841733-0-147973
+msgctxt "242841733-0-147973"
+msgid "Coldharbour's Favorite Jerkin"
+msgstr ""
+
+#: 242841733-0-147972
+msgctxt "242841733-0-147972"
+msgid "Coldharbour's Favorite Breeches"
+msgstr ""
+
+#: 242841733-0-147971
+msgctxt "242841733-0-147971"
+msgid "Coldharbour's Favorite Hat"
+msgstr ""
+
+#: 242841733-0-147970
+msgctxt "242841733-0-147970"
+msgid "Coldharbour's Favorite Gloves"
+msgstr ""
+
+#: 242841733-0-147969
+msgctxt "242841733-0-147969"
+msgid "Coldharbour's Favorite Shoes"
+msgstr ""
+
+#: 242841733-0-147968
+msgctxt "242841733-0-147968"
+msgid "Coldharbour's Favorite Robe"
+msgstr ""
+
+#: 242841733-0-147967
+msgctxt "242841733-0-147967"
+msgid "Coldharbour's Favorite Girdle"
+msgstr ""
+
+#: 242841733-0-147966
+msgctxt "242841733-0-147966"
+msgid "Coldharbour's Favorite Pauldrons"
+msgstr ""
+
+#: 242841733-0-147965
+msgctxt "242841733-0-147965"
+msgid "Coldharbour's Favorite Greaves"
+msgstr ""
+
+#: 242841733-0-147964
+msgctxt "242841733-0-147964"
+msgid "Coldharbour's Favorite Helm"
+msgstr ""
+
+#: 242841733-0-147963
+msgctxt "242841733-0-147963"
+msgid "Coldharbour's Favorite Gauntlets"
+msgstr ""
+
+#: 242841733-0-147962
+msgctxt "242841733-0-147962"
+msgid "Coldharbour's Favorite Sabatons"
+msgstr ""
+
+#: 242841733-0-147961
+msgctxt "242841733-0-147961"
+msgid "Coldharbour's Favorite Cuirass"
+msgstr ""
+
+#: 242841733-0-147960
+msgctxt "242841733-0-147960"
+msgid "Coldharbour's Favorite Shield"
+msgstr ""
+
+#: 242841733-0-147959
+msgctxt "242841733-0-147959"
+msgid "Coldharbour's Favorite Restoration Staff"
+msgstr ""
+
+#: 242841733-0-147958
+msgctxt "242841733-0-147958"
+msgid "Coldharbour's Favorite Lightning Staff"
+msgstr ""
+
+#: 242841733-0-147957
+msgctxt "242841733-0-147957"
+msgid "Coldharbour's Favorite Frost Staff"
+msgstr ""
+
+#: 242841733-0-147956
+msgctxt "242841733-0-147956"
+msgid "Coldharbour's Favorite Inferno Staff"
+msgstr ""
+
+#: 242841733-0-147955
+msgctxt "242841733-0-147955"
+msgid "Coldharbour's Favorite Bow"
+msgstr ""
+
+#: 242841733-0-147954
+msgctxt "242841733-0-147954"
+msgid "Coldharbour's Favorite Dagger"
+msgstr ""
+
+#: 242841733-0-147953
+msgctxt "242841733-0-147953"
+msgid "Coldharbour's Favorite Greatsword"
+msgstr ""
+
+#: 242841733-0-147952
+msgctxt "242841733-0-147952"
+msgid "Coldharbour's Favorite Maul"
+msgstr ""
+
+#: 242841733-0-147951
+msgctxt "242841733-0-147951"
+msgid "Coldharbour's Favorite Battle Axe"
+msgstr ""
+
+#: 242841733-0-147950
+msgctxt "242841733-0-147950"
+msgid "Coldharbour's Favorite Sword"
+msgstr ""
+
+#: 242841733-0-147949
+msgctxt "242841733-0-147949"
+msgid "Coldharbour's Favorite Mace"
+msgstr ""
+
+#: 242841733-0-147948
+msgctxt "242841733-0-147948"
+msgid "Coldharbour's Favorite Axe"
+msgstr ""
+
+#: 228378404-0-147947
+msgctxt "228378404-0-147947"
+msgid "A rare fish found only in the rivers of Northern Elsweyr."
+msgstr ""
+
+#: 242841733-0-147923
+msgctxt "242841733-0-147923"
+msgid "Northern Elsweyr CE Treasure Map II"
+msgstr ""
+
+#: 242841733-0-147922
+msgctxt "242841733-0-147922"
+msgid "Northern Elsweyr CE Treasure Map I"
+msgstr ""
+
+#: 228378404-0-147921
+msgctxt "228378404-0-147921"
+msgid ""
+"This ancient document details the complex lineage of an Elven royal family. "
+"Age and fire have made it impossible to read."
+msgstr ""
+
+#: 228378404-0-147745
+msgctxt "228378404-0-147745"
+msgid ""
+"Use to learn the Jone & Jode crafting style. Also teaches the equivalent "
+"Jone & Jode Outfit Styles."
+msgstr ""
+

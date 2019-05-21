@@ -1,0 +1,2439 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-05-21 04:34+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 242841733-0-125110
+msgctxt "242841733-0-125110"
+msgid "HEAVY: Ebon Armory (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-125109
+msgctxt "242841733-0-125109"
+msgid "HEAVY: Ebon Armory (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-125108
+msgctxt "242841733-0-125108"
+msgid "HEAVY: Ebon Armory (Bow)"
+msgstr ""
+
+#: 242841733-0-125107
+msgctxt "242841733-0-125107"
+msgid "HEAVY: Ebon Armory (One Handed)"
+msgstr ""
+
+#: 242841733-0-125106
+msgctxt "242841733-0-125106"
+msgid "HEAVY: Ebon Armory (Two Handed)"
+msgstr ""
+
+#: 242841733-0-125105
+msgctxt "242841733-0-125105"
+msgid "HEAVY: Ebon Armory (Feet)"
+msgstr ""
+
+#: 242841733-0-125104
+msgctxt "242841733-0-125104"
+msgid "HEAVY: Ebon Armory (Legs)"
+msgstr ""
+
+#: 242841733-0-125103
+msgctxt "242841733-0-125103"
+msgid "HEAVY: Ebon Armory (Waist)"
+msgstr ""
+
+#: 242841733-0-125102
+msgctxt "242841733-0-125102"
+msgid "HEAVY: Ebon Armory (Hands)"
+msgstr ""
+
+#: 242841733-0-125101
+msgctxt "242841733-0-125101"
+msgid "HEAVY: Ebon Armory (Chest)"
+msgstr ""
+
+#: 242841733-0-125100
+msgctxt "242841733-0-125100"
+msgid "HEAVY: Ebon Armory (Shoulders)"
+msgstr ""
+
+#: 242841733-0-125099
+msgctxt "242841733-0-125099"
+msgid "HEAVY: Ebon Armory (Head)"
+msgstr ""
+
+#: 242841733-0-125098
+msgctxt "242841733-0-125098"
+msgid "HEAVY: Black Rose"
+msgstr ""
+
+#: 242841733-0-125097
+msgctxt "242841733-0-125097"
+msgid "HEAVY: Black Rose (Jewelry)"
+msgstr ""
+
+#: 242841733-0-125096
+msgctxt "242841733-0-125096"
+msgid "HEAVY: Black Rose (Armor)"
+msgstr ""
+
+#: 242841733-0-125095
+msgctxt "242841733-0-125095"
+msgid "HEAVY: Black Rose (Weapons)"
+msgstr ""
+
+#: 242841733-0-125094
+msgctxt "242841733-0-125094"
+msgid "HEAVY: Black Rose (Shield)"
+msgstr ""
+
+#: 242841733-0-125093
+msgctxt "242841733-0-125093"
+msgid "HEAVY: Black Rose (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-125092
+msgctxt "242841733-0-125092"
+msgid "HEAVY: Black Rose (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-125091
+msgctxt "242841733-0-125091"
+msgid "HEAVY: Black Rose (Bow)"
+msgstr ""
+
+#: 242841733-0-125090
+msgctxt "242841733-0-125090"
+msgid "HEAVY: Black Rose (One Handed)"
+msgstr ""
+
+#: 242841733-0-125089
+msgctxt "242841733-0-125089"
+msgid "HEAVY: Black Rose (Two Handed)"
+msgstr ""
+
+#: 242841733-0-125088
+msgctxt "242841733-0-125088"
+msgid "HEAVY: Black Rose (Feet)"
+msgstr ""
+
+#: 242841733-0-125087
+msgctxt "242841733-0-125087"
+msgid "HEAVY: Black Rose (Legs)"
+msgstr ""
+
+#: 242841733-0-125086
+msgctxt "242841733-0-125086"
+msgid "HEAVY: Black Rose (Waist)"
+msgstr ""
+
+#: 242841733-0-125085
+msgctxt "242841733-0-125085"
+msgid "HEAVY: Black Rose (Hands)"
+msgstr ""
+
+#: 242841733-0-125084
+msgctxt "242841733-0-125084"
+msgid "HEAVY: Black Rose (Chest)"
+msgstr ""
+
+#: 242841733-0-125083
+msgctxt "242841733-0-125083"
+msgid "HEAVY: Black Rose (Shoulders)"
+msgstr ""
+
+#: 242841733-0-125082
+msgctxt "242841733-0-125082"
+msgid "HEAVY: Black Rose (Head)"
+msgstr ""
+
+#: 242841733-0-125081
+msgctxt "242841733-0-125081"
+msgid "MEDIUM: Vicious Serpent"
+msgstr ""
+
+#: 242841733-0-125080
+msgctxt "242841733-0-125080"
+msgid "MEDIUM: Vicious Serpent (Jewelry)"
+msgstr ""
+
+#: 242841733-0-125079
+msgctxt "242841733-0-125079"
+msgid "MEDIUM: Vicious Serpent (Armor)"
+msgstr ""
+
+#: 242841733-0-125078
+msgctxt "242841733-0-125078"
+msgid "MEDIUM: Vicious Serpent (Weapons)"
+msgstr ""
+
+#: 242841733-0-125077
+msgctxt "242841733-0-125077"
+msgid "MEDIUM: Vicious Serpent (Shield)"
+msgstr ""
+
+#: 242841733-0-125076
+msgctxt "242841733-0-125076"
+msgid "MEDIUM: Vicious Serpent (Restoration)"
+msgstr ""
+
+#: 242841733-0-125075
+msgctxt "242841733-0-125075"
+msgid "MEDIUM: Vicious Serpent (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-125074
+msgctxt "242841733-0-125074"
+msgid "MEDIUM: Vicious Serpent (Bow)"
+msgstr ""
+
+#: 242841733-0-125073
+msgctxt "242841733-0-125073"
+msgid "MEDIUM: Vicious Serpent (One Handed)"
+msgstr ""
+
+#: 242841733-0-125072
+msgctxt "242841733-0-125072"
+msgid "MEDIUM: Vicious Serpent (Two Handed)"
+msgstr ""
+
+#: 242841733-0-125071
+msgctxt "242841733-0-125071"
+msgid "MEDIUM: Vicious Serpent (Feet)"
+msgstr ""
+
+#: 242841733-0-125070
+msgctxt "242841733-0-125070"
+msgid "MEDIUM: Vicious Serpent (Legs)"
+msgstr ""
+
+#: 242841733-0-125069
+msgctxt "242841733-0-125069"
+msgid "MEDIUM: Vicious Serpent (Waist)"
+msgstr ""
+
+#: 242841733-0-125068
+msgctxt "242841733-0-125068"
+msgid "MEDIUM: Vicious Serpent (Hands)"
+msgstr ""
+
+#: 242841733-0-125067
+msgctxt "242841733-0-125067"
+msgid "MEDIUM: Vicious Serpent (Chest)"
+msgstr ""
+
+#: 242841733-0-125066
+msgctxt "242841733-0-125066"
+msgid "MEDIUM: Vicious Serpent (Shoulders)"
+msgstr ""
+
+#: 242841733-0-125065
+msgctxt "242841733-0-125065"
+msgid "MEDIUM: Vicious Serpent (Head)"
+msgstr ""
+
+#: 242841733-0-125064
+msgctxt "242841733-0-125064"
+msgid "MEDIUM: Sunderflame"
+msgstr ""
+
+#: 242841733-0-125063
+msgctxt "242841733-0-125063"
+msgid "MEDIUM: Sunderflame (Jewelry)"
+msgstr ""
+
+#: 242841733-0-125062
+msgctxt "242841733-0-125062"
+msgid "MEDIUM: Sunderflame (Armor)"
+msgstr ""
+
+#: 242841733-0-125061
+msgctxt "242841733-0-125061"
+msgid "MEDIUM: Sunderflame (Weapons)"
+msgstr ""
+
+#: 242841733-0-125060
+msgctxt "242841733-0-125060"
+msgid "MEDIUM: Sunderflame (Shield)"
+msgstr ""
+
+#: 242841733-0-125059
+msgctxt "242841733-0-125059"
+msgid "MEDIUM: Sunderflame (Restoration)"
+msgstr ""
+
+#: 242841733-0-125058
+msgctxt "242841733-0-125058"
+msgid "MEDIUM: Sunderflame (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-125057
+msgctxt "242841733-0-125057"
+msgid "MEDIUM: Sunderflame (Bow)"
+msgstr ""
+
+#: 242841733-0-125056
+msgctxt "242841733-0-125056"
+msgid "MEDIUM: Sunderflame (One Handed)"
+msgstr ""
+
+#: 242841733-0-125055
+msgctxt "242841733-0-125055"
+msgid "MEDIUM: Sunderflame (Two Handed)"
+msgstr ""
+
+#: 242841733-0-125054
+msgctxt "242841733-0-125054"
+msgid "MEDIUM: Sunderflame (Feet)"
+msgstr ""
+
+#: 242841733-0-125053
+msgctxt "242841733-0-125053"
+msgid "MEDIUM: Sunderflame (Legs)"
+msgstr ""
+
+#: 242841733-0-125052
+msgctxt "242841733-0-125052"
+msgid "MEDIUM: Sunderflame (Waist)"
+msgstr ""
+
+#: 242841733-0-125051
+msgctxt "242841733-0-125051"
+msgid "MEDIUM: Sunderflame (Hands)"
+msgstr ""
+
+#: 242841733-0-125050
+msgctxt "242841733-0-125050"
+msgid "MEDIUM: Sunderflame (Chest)"
+msgstr ""
+
+#: 242841733-0-125049
+msgctxt "242841733-0-125049"
+msgid "MEDIUM: Sunderflame (Shoulders)"
+msgstr ""
+
+#: 242841733-0-125048
+msgctxt "242841733-0-125048"
+msgid "MEDIUM: Sunderflame (Head)"
+msgstr ""
+
+#: 242841733-0-125047
+msgctxt "242841733-0-125047"
+msgid "MEDIUM: Spriggan's Thorns"
+msgstr ""
+
+#: 242841733-0-125046
+msgctxt "242841733-0-125046"
+msgid "MEDIUM: Spriggan's Thorns (Jewelry)"
+msgstr ""
+
+#: 242841733-0-125045
+msgctxt "242841733-0-125045"
+msgid "MEDIUM: Spriggan's Thorns (Armor)"
+msgstr ""
+
+#: 242841733-0-125044
+msgctxt "242841733-0-125044"
+msgid "MEDIUM: Spriggan's Thorns (Weapons)"
+msgstr ""
+
+#: 242841733-0-125043
+msgctxt "242841733-0-125043"
+msgid "MEDIUM: Spriggan's Thorns (Shield)"
+msgstr ""
+
+#: 242841733-0-125042
+msgctxt "242841733-0-125042"
+msgid "MEDIUM: Spriggan's Thorns (Restoration)"
+msgstr ""
+
+#: 242841733-0-125041
+msgctxt "242841733-0-125041"
+msgid "MEDIUM: Spriggan's Thorns (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-125040
+msgctxt "242841733-0-125040"
+msgid "MEDIUM: Spriggan's Thorns (Bow)"
+msgstr ""
+
+#: 242841733-0-125039
+msgctxt "242841733-0-125039"
+msgid "MEDIUM: Spriggan's Thorns (One Handed)"
+msgstr ""
+
+#: 242841733-0-125038
+msgctxt "242841733-0-125038"
+msgid "MEDIUM: Spriggan's Thorns (Two Handed)"
+msgstr ""
+
+#: 242841733-0-125037
+msgctxt "242841733-0-125037"
+msgid "MEDIUM: Spriggan's Thorns (Feet)"
+msgstr ""
+
+#: 242841733-0-125036
+msgctxt "242841733-0-125036"
+msgid "MEDIUM: Spriggan's Thorns (Legs)"
+msgstr ""
+
+#: 242841733-0-125035
+msgctxt "242841733-0-125035"
+msgid "MEDIUM: Spriggan's Thorns (Waist)"
+msgstr ""
+
+#: 242841733-0-125034
+msgctxt "242841733-0-125034"
+msgid "MEDIUM: Spriggan's Thorns (Hands)"
+msgstr ""
+
+#: 242841733-0-125033
+msgctxt "242841733-0-125033"
+msgid "MEDIUM: Spriggan's Thorns (Chest)"
+msgstr ""
+
+#: 242841733-0-125032
+msgctxt "242841733-0-125032"
+msgid "MEDIUM: Spriggan's Thorns (Shoulders)"
+msgstr ""
+
+#: 242841733-0-125031
+msgctxt "242841733-0-125031"
+msgid "MEDIUM: Spriggan's Thorns (Head)"
+msgstr ""
+
+#: 242841733-0-125029
+msgctxt "242841733-0-125029"
+msgid "MEDIUM: Shield Breaker"
+msgstr "MEDIUM 방패 Breaker"
+
+#: 242841733-0-125028
+msgctxt "242841733-0-125028"
+msgid "MEDIUM: Shield Breaker (Jewelry)"
+msgstr "MEDIUM 방패 Breaker (Jewelry)"
+
+#: 242841733-0-125027
+msgctxt "242841733-0-125027"
+msgid "MEDIUM: Shield Breaker (Armor)"
+msgstr "MEDIUM 방패 Breaker (Armor)"
+
+#: 242841733-0-125026
+msgctxt "242841733-0-125026"
+msgid "MEDIUM: Shield Breaker (Weapons)"
+msgstr "MEDIUM 방패 Breaker (Weapons)"
+
+#: 242841733-0-125025
+msgctxt "242841733-0-125025"
+msgid "MEDIUM: Shield Breaker (Shield)"
+msgstr "MEDIUM 방패 Breaker (Shield)"
+
+#: 242841733-0-125024
+msgctxt "242841733-0-125024"
+msgid "MEDIUM: Shield Breaker (Restoration)"
+msgstr "MEDIUM 방패 Breaker (Restoration)"
+
+#: 242841733-0-125023
+msgctxt "242841733-0-125023"
+msgid "MEDIUM: Shield Breaker (Destruction Staff)"
+msgstr "MEDIUM 방패 Breaker (Destruction Staff)"
+
+#: 242841733-0-125022
+msgctxt "242841733-0-125022"
+msgid "MEDIUM: Shield Breaker (Bow)"
+msgstr "MEDIUM 방패 Breaker (Bow)"
+
+#: 242841733-0-125021
+msgctxt "242841733-0-125021"
+msgid "MEDIUM: Shield Breaker (One Handed)"
+msgstr "MEDIUM 방패 Breaker (One Handed)"
+
+#: 242841733-0-125020
+msgctxt "242841733-0-125020"
+msgid "MEDIUM: Shield Breaker (Two Handed)"
+msgstr "MEDIUM 방패 Breaker (Two Handed)"
+
+#: 242841733-0-125019
+msgctxt "242841733-0-125019"
+msgid "MEDIUM: Shield Breaker (Feet)"
+msgstr "MEDIUM 방패 Breaker (Feet)"
+
+#: 242841733-0-125018
+msgctxt "242841733-0-125018"
+msgid "MEDIUM: Shield Breaker (Legs)"
+msgstr "MEDIUM 방패 Breaker (Legs)"
+
+#: 242841733-0-125017
+msgctxt "242841733-0-125017"
+msgid "MEDIUM: Shield Breaker (Waist)"
+msgstr "MEDIUM 방패 Breaker (Waist)"
+
+#: 242841733-0-125016
+msgctxt "242841733-0-125016"
+msgid "MEDIUM: Shield Breaker (Hands)"
+msgstr "MEDIUM 방패 Breaker (Hands)"
+
+#: 242841733-0-125015
+msgctxt "242841733-0-125015"
+msgid "MEDIUM: Shield Breaker (Chest)"
+msgstr "MEDIUM 방패 Breaker (Chest)"
+
+#: 242841733-0-125014
+msgctxt "242841733-0-125014"
+msgid "MEDIUM: Shield Breaker (Shoulders)"
+msgstr "MEDIUM 방패 Breaker (Shoulders)"
+
+#: 242841733-0-125013
+msgctxt "242841733-0-125013"
+msgid "MEDIUM: Shield Breaker (Head)"
+msgstr "MEDIUM 방패 Breaker (Head)"
+
+#: 242841733-0-125012
+msgctxt "242841733-0-125012"
+msgid "MEDIUM: Roar of Alkosh"
+msgstr ""
+
+#: 242841733-0-125011
+msgctxt "242841733-0-125011"
+msgid "MEDIUM: Roar of Alkosh (Jewelry)"
+msgstr ""
+
+#: 242841733-0-125010
+msgctxt "242841733-0-125010"
+msgid "MEDIUM: Roar of Alkosh (Armor)"
+msgstr ""
+
+#: 242841733-0-125009
+msgctxt "242841733-0-125009"
+msgid "MEDIUM: Roar of Alkosh (Weapons)"
+msgstr ""
+
+#: 242841733-0-125008
+msgctxt "242841733-0-125008"
+msgid "MEDIUM: Roar of Alkosh (Shield)"
+msgstr ""
+
+#: 242841733-0-125007
+msgctxt "242841733-0-125007"
+msgid "MEDIUM: Roar of Alkosh (Restoration)"
+msgstr ""
+
+#: 242841733-0-125006
+msgctxt "242841733-0-125006"
+msgid "MEDIUM: Roar of Alkosh (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-125005
+msgctxt "242841733-0-125005"
+msgid "MEDIUM: Roar of Alkosh (Bow)"
+msgstr ""
+
+#: 242841733-0-125004
+msgctxt "242841733-0-125004"
+msgid "MEDIUM: Roar of Alkosh (One Handed)"
+msgstr ""
+
+#: 242841733-0-125003
+msgctxt "242841733-0-125003"
+msgid "MEDIUM: Roar of Alkosh (Two Handed)"
+msgstr ""
+
+#: 242841733-0-125002
+msgctxt "242841733-0-125002"
+msgid "MEDIUM: Roar of Alkosh (Feet)"
+msgstr ""
+
+#: 242841733-0-125001
+msgctxt "242841733-0-125001"
+msgid "MEDIUM: Roar of Alkosh (Legs)"
+msgstr ""
+
+#: 242841733-0-125000
+msgctxt "242841733-0-125000"
+msgid "MEDIUM: Roar of Alkosh (Waist)"
+msgstr ""
+
+#: 242841733-0-124999
+msgctxt "242841733-0-124999"
+msgid "MEDIUM: Roar of Alkosh (Hands)"
+msgstr ""
+
+#: 242841733-0-124998
+msgctxt "242841733-0-124998"
+msgid "MEDIUM: Roar of Alkosh (Chest)"
+msgstr ""
+
+#: 242841733-0-124997
+msgctxt "242841733-0-124997"
+msgid "MEDIUM: Roar of Alkosh (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124996
+msgctxt "242841733-0-124996"
+msgid "MEDIUM: Roar of Alkosh (Head)"
+msgstr ""
+
+#: 242841733-0-124995
+msgctxt "242841733-0-124995"
+msgid "MEDIUM: Powerful Assault"
+msgstr ""
+
+#: 242841733-0-124994
+msgctxt "242841733-0-124994"
+msgid "MEDIUM: Powerful Assault (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124993
+msgctxt "242841733-0-124993"
+msgid "MEDIUM: Powerful Assault (Armor)"
+msgstr ""
+
+#: 242841733-0-124992
+msgctxt "242841733-0-124992"
+msgid "MEDIUM: Powerful Assault (Weapons)"
+msgstr ""
+
+#: 242841733-0-124991
+msgctxt "242841733-0-124991"
+msgid "MEDIUM: Powerful Assault (Shield)"
+msgstr ""
+
+#: 242841733-0-124990
+msgctxt "242841733-0-124990"
+msgid "MEDIUM: Powerful Assault (Restoration)"
+msgstr ""
+
+#: 242841733-0-124989
+msgctxt "242841733-0-124989"
+msgid "MEDIUM: Powerful Assault (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124988
+msgctxt "242841733-0-124988"
+msgid "MEDIUM: Powerful Assault (Bow)"
+msgstr ""
+
+#: 242841733-0-124987
+msgctxt "242841733-0-124987"
+msgid "MEDIUM: Powerful Assault (One Handed)"
+msgstr ""
+
+#: 242841733-0-124986
+msgctxt "242841733-0-124986"
+msgid "MEDIUM: Powerful Assault (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124985
+msgctxt "242841733-0-124985"
+msgid "MEDIUM: Powerful Assault (Feet)"
+msgstr ""
+
+#: 242841733-0-124984
+msgctxt "242841733-0-124984"
+msgid "MEDIUM: Powerful Assault (Legs)"
+msgstr ""
+
+#: 242841733-0-124983
+msgctxt "242841733-0-124983"
+msgid "MEDIUM: Powerful Assault (Waist)"
+msgstr ""
+
+#: 242841733-0-124982
+msgctxt "242841733-0-124982"
+msgid "MEDIUM: Powerful Assault (Hands)"
+msgstr ""
+
+#: 242841733-0-124981
+msgctxt "242841733-0-124981"
+msgid "MEDIUM: Powerful Assault (Chest)"
+msgstr ""
+
+#: 242841733-0-124980
+msgctxt "242841733-0-124980"
+msgid "MEDIUM: Powerful Assault (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124979
+msgctxt "242841733-0-124979"
+msgid "MEDIUM: Powerful Assault (Head)"
+msgstr ""
+
+#: 242841733-0-124978
+msgctxt "242841733-0-124978"
+msgid "MEDIUM: Leviathan"
+msgstr ""
+
+#: 242841733-0-124977
+msgctxt "242841733-0-124977"
+msgid "MEDIUM: Leviathan (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124976
+msgctxt "242841733-0-124976"
+msgid "MEDIUM: Leviathan (Armor)"
+msgstr ""
+
+#: 242841733-0-124975
+msgctxt "242841733-0-124975"
+msgid "MEDIUM: Leviathan (Weapons)"
+msgstr ""
+
+#: 242841733-0-124974
+msgctxt "242841733-0-124974"
+msgid "MEDIUM: Leviathan (Shield)"
+msgstr ""
+
+#: 242841733-0-124973
+msgctxt "242841733-0-124973"
+msgid "MEDIUM: Leviathan (Restoration)"
+msgstr ""
+
+#: 242841733-0-124972
+msgctxt "242841733-0-124972"
+msgid "MEDIUM: Leviathan (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124971
+msgctxt "242841733-0-124971"
+msgid "MEDIUM: Leviathan (Bow)"
+msgstr ""
+
+#: 242841733-0-124970
+msgctxt "242841733-0-124970"
+msgid "MEDIUM: Leviathan (One Handed)"
+msgstr ""
+
+#: 242841733-0-124969
+msgctxt "242841733-0-124969"
+msgid "MEDIUM: Leviathan (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124968
+msgctxt "242841733-0-124968"
+msgid "MEDIUM: Leviathan (Feet)"
+msgstr ""
+
+#: 242841733-0-124967
+msgctxt "242841733-0-124967"
+msgid "MEDIUM: Leviathan (Legs)"
+msgstr ""
+
+#: 242841733-0-124966
+msgctxt "242841733-0-124966"
+msgid "MEDIUM: Leviathan (Waist)"
+msgstr ""
+
+#: 242841733-0-124965
+msgctxt "242841733-0-124965"
+msgid "MEDIUM: Leviathan (Hands)"
+msgstr ""
+
+#: 242841733-0-124964
+msgctxt "242841733-0-124964"
+msgid "MEDIUM: Leviathan (Chest)"
+msgstr ""
+
+#: 242841733-0-124963
+msgctxt "242841733-0-124963"
+msgid "MEDIUM: Leviathan (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124962
+msgctxt "242841733-0-124962"
+msgid "MEDIUM: Leviathan (Head)"
+msgstr ""
+
+#: 242841733-0-124961
+msgctxt "242841733-0-124961"
+msgid "MEDIUM: Hunt Leader"
+msgstr ""
+
+#: 242841733-0-124960
+msgctxt "242841733-0-124960"
+msgid "MEDIUM: Hunt Leader (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124959
+msgctxt "242841733-0-124959"
+msgid "MEDIUM: Hunt Leader (Armor)"
+msgstr ""
+
+#: 242841733-0-124958
+msgctxt "242841733-0-124958"
+msgid "MEDIUM: Hunt Leader (Feet)"
+msgstr ""
+
+#: 242841733-0-124957
+msgctxt "242841733-0-124957"
+msgid "MEDIUM: Hunt Leader (Legs)"
+msgstr ""
+
+#: 242841733-0-124956
+msgctxt "242841733-0-124956"
+msgid "MEDIUM: Hunt Leader (Waist)"
+msgstr ""
+
+#: 242841733-0-124955
+msgctxt "242841733-0-124955"
+msgid "MEDIUM: Hunt Leader (Hands)"
+msgstr ""
+
+#: 242841733-0-124954
+msgctxt "242841733-0-124954"
+msgid "MEDIUM: Hunt Leader (Chest)"
+msgstr ""
+
+#: 242841733-0-124953
+msgctxt "242841733-0-124953"
+msgid "MEDIUM: Hunt Leader (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124952
+msgctxt "242841733-0-124952"
+msgid "MEDIUM: Hunt Leader (Head)"
+msgstr ""
+
+#: 242841733-0-124951
+msgctxt "242841733-0-124951"
+msgid "MEDIUM: Hircine's Veneer"
+msgstr ""
+
+#: 242841733-0-124950
+msgctxt "242841733-0-124950"
+msgid "MEDIUM: Hircine's Veneer (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124949
+msgctxt "242841733-0-124949"
+msgid "MEDIUM: Hircine's Veneer (Armor)"
+msgstr ""
+
+#: 242841733-0-124948
+msgctxt "242841733-0-124948"
+msgid "MEDIUM: Hircine's Veneer (Weapons)"
+msgstr ""
+
+#: 242841733-0-124947
+msgctxt "242841733-0-124947"
+msgid "MEDIUM: Hircine's Veneer (Shield)"
+msgstr ""
+
+#: 242841733-0-124946
+msgctxt "242841733-0-124946"
+msgid "MEDIUM: Hircine's Veneer (Restoration)"
+msgstr ""
+
+#: 242841733-0-124945
+msgctxt "242841733-0-124945"
+msgid "MEDIUM: Hircine's Veneer (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124944
+msgctxt "242841733-0-124944"
+msgid "MEDIUM: Hircine's Veneer (Bow)"
+msgstr ""
+
+#: 242841733-0-124943
+msgctxt "242841733-0-124943"
+msgid "MEDIUM: Hircine's Veneer (One Handed)"
+msgstr ""
+
+#: 242841733-0-124942
+msgctxt "242841733-0-124942"
+msgid "MEDIUM: Hircine's Veneer (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124941
+msgctxt "242841733-0-124941"
+msgid "MEDIUM: Hircine's Veneer (Feet)"
+msgstr ""
+
+#: 242841733-0-124940
+msgctxt "242841733-0-124940"
+msgid "MEDIUM: Hircine's Veneer (Legs)"
+msgstr ""
+
+#: 242841733-0-124939
+msgctxt "242841733-0-124939"
+msgid "MEDIUM: Hircine's Veneer (Waist)"
+msgstr ""
+
+#: 242841733-0-124938
+msgctxt "242841733-0-124938"
+msgid "MEDIUM: Hircine's Veneer (Hands)"
+msgstr ""
+
+#: 242841733-0-124937
+msgctxt "242841733-0-124937"
+msgid "MEDIUM: Hircine's Veneer (Chest)"
+msgstr ""
+
+#: 242841733-0-124936
+msgctxt "242841733-0-124936"
+msgid "MEDIUM: Hircine's Veneer (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124935
+msgctxt "242841733-0-124935"
+msgid "MEDIUM: Hircine's Veneer (Head)"
+msgstr ""
+
+#: 242841733-0-124934
+msgctxt "242841733-0-124934"
+msgid "MEDIUM: Draugr Hulk"
+msgstr ""
+
+#: 242841733-0-124933
+msgctxt "242841733-0-124933"
+msgid "MEDIUM: Draugr Hulk (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124932
+msgctxt "242841733-0-124932"
+msgid "MEDIUM: Draugr Hulk (Armor)"
+msgstr ""
+
+#: 242841733-0-124931
+msgctxt "242841733-0-124931"
+msgid "MEDIUM: Draugr Hulk (Weapons)"
+msgstr ""
+
+#: 242841733-0-124930
+msgctxt "242841733-0-124930"
+msgid "MEDIUM: Draugr Hulk (Shield)"
+msgstr ""
+
+#: 242841733-0-124929
+msgctxt "242841733-0-124929"
+msgid "MEDIUM: Draugr Hulk (Restoration)"
+msgstr ""
+
+#: 242841733-0-124928
+msgctxt "242841733-0-124928"
+msgid "MEDIUM: Draugr Hulk (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124927
+msgctxt "242841733-0-124927"
+msgid "MEDIUM: Draugr Hulk (Bow)"
+msgstr ""
+
+#: 242841733-0-124926
+msgctxt "242841733-0-124926"
+msgid "MEDIUM: Draugr Hulk (One Handed)"
+msgstr ""
+
+#: 242841733-0-124925
+msgctxt "242841733-0-124925"
+msgid "MEDIUM: Draugr Hulk (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124924
+msgctxt "242841733-0-124924"
+msgid "MEDIUM: Draugr Hulk (Feet)"
+msgstr ""
+
+#: 242841733-0-124923
+msgctxt "242841733-0-124923"
+msgid "MEDIUM: Draugr Hulk (Legs)"
+msgstr ""
+
+#: 242841733-0-124922
+msgctxt "242841733-0-124922"
+msgid "MEDIUM: Draugr Hulk (Waist)"
+msgstr ""
+
+#: 242841733-0-124921
+msgctxt "242841733-0-124921"
+msgid "MEDIUM: Draugr Hulk (Hands)"
+msgstr ""
+
+#: 242841733-0-124920
+msgctxt "242841733-0-124920"
+msgid "MEDIUM: Draugr Hulk (Chest)"
+msgstr ""
+
+#: 242841733-0-124919
+msgctxt "242841733-0-124919"
+msgid "MEDIUM: Draugr Hulk (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124918
+msgctxt "242841733-0-124918"
+msgid "MEDIUM: Draugr Hulk (Head)"
+msgstr ""
+
+#: 242841733-0-124917
+msgctxt "242841733-0-124917"
+msgid "LIGHT: Worm's Raiment"
+msgstr ""
+
+#: 242841733-0-124916
+msgctxt "242841733-0-124916"
+msgid "LIGHT: Worm's Raiment (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124915
+msgctxt "242841733-0-124915"
+msgid "LIGHT: Worm's Raiment (Armor)"
+msgstr ""
+
+#: 242841733-0-124914
+msgctxt "242841733-0-124914"
+msgid "LIGHT: Worm's Raiment (Weapons)"
+msgstr ""
+
+#: 242841733-0-124913
+msgctxt "242841733-0-124913"
+msgid "LIGHT: Worm's Raiment (Shield)"
+msgstr ""
+
+#: 242841733-0-124912
+msgctxt "242841733-0-124912"
+msgid "LIGHT: Worm's Raiment (Restoration)"
+msgstr ""
+
+#: 242841733-0-124911
+msgctxt "242841733-0-124911"
+msgid "LIGHT: Worm's Raiment (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124910
+msgctxt "242841733-0-124910"
+msgid "LIGHT: Worm's Raiment (Bow)"
+msgstr ""
+
+#: 242841733-0-124909
+msgctxt "242841733-0-124909"
+msgid "LIGHT: Worm's Raiment (One Handed)"
+msgstr ""
+
+#: 242841733-0-124908
+msgctxt "242841733-0-124908"
+msgid "LIGHT: Worm's Raiment (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124907
+msgctxt "242841733-0-124907"
+msgid "LIGHT: Worm's Raiment (Feet)"
+msgstr ""
+
+#: 242841733-0-124906
+msgctxt "242841733-0-124906"
+msgid "LIGHT: Worm's Raiment (Legs)"
+msgstr ""
+
+#: 242841733-0-124905
+msgctxt "242841733-0-124905"
+msgid "LIGHT: Worm's Raiment (Waist)"
+msgstr ""
+
+#: 242841733-0-124904
+msgctxt "242841733-0-124904"
+msgid "LIGHT: Worm's Raiment (Hands)"
+msgstr ""
+
+#: 242841733-0-124903
+msgctxt "242841733-0-124903"
+msgid "LIGHT: Worm's Raiment (Chest)"
+msgstr ""
+
+#: 242841733-0-124902
+msgctxt "242841733-0-124902"
+msgid "LIGHT: Worm's Raiment (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124901
+msgctxt "242841733-0-124901"
+msgid "LIGHT: Worm's Raiment (Head)"
+msgstr ""
+
+#: 242841733-0-124900
+msgctxt "242841733-0-124900"
+msgid "LIGHT: Vestments of the Warlock"
+msgstr ""
+
+#: 242841733-0-124899
+msgctxt "242841733-0-124899"
+msgid "LIGHT: Vestments of the Warlock (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124898
+msgctxt "242841733-0-124898"
+msgid "LIGHT: Vestments of the Warlock (Armor)"
+msgstr ""
+
+#: 242841733-0-124897
+msgctxt "242841733-0-124897"
+msgid "LIGHT: Vestments of the Warlock (Weapons)"
+msgstr ""
+
+#: 242841733-0-124896
+msgctxt "242841733-0-124896"
+msgid "LIGHT: Vestments of the Warlock (Shield)"
+msgstr ""
+
+#: 242841733-0-124895
+msgctxt "242841733-0-124895"
+msgid "LIGHT: Vestments of the Warlock (Restoration)"
+msgstr ""
+
+#: 242841733-0-124894
+msgctxt "242841733-0-124894"
+msgid "LIGHT: Vestments of the Warlock (Destruction)"
+msgstr ""
+
+#: 242841733-0-124893
+msgctxt "242841733-0-124893"
+msgid "LIGHT: Vestments of the Warlock (Bow)"
+msgstr ""
+
+#: 242841733-0-124892
+msgctxt "242841733-0-124892"
+msgid "LIGHT: Vestments of the Warlock (One Handed)"
+msgstr ""
+
+#: 242841733-0-124891
+msgctxt "242841733-0-124891"
+msgid "LIGHT: Vestments of the Warlock (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124890
+msgctxt "242841733-0-124890"
+msgid "LIGHT: Vestments of the Warlock (Feet)"
+msgstr ""
+
+#: 242841733-0-124889
+msgctxt "242841733-0-124889"
+msgid "LIGHT: Vestments of the Warlock (Legs)"
+msgstr ""
+
+#: 242841733-0-124888
+msgctxt "242841733-0-124888"
+msgid "LIGHT: Vestments of the Warlock (Waist)"
+msgstr ""
+
+#: 242841733-0-124887
+msgctxt "242841733-0-124887"
+msgid "LIGHT: Vestments of the Warlock (Hands)"
+msgstr ""
+
+#: 242841733-0-124886
+msgctxt "242841733-0-124886"
+msgid "LIGHT: Vestments of the Warlock (Chest)"
+msgstr ""
+
+#: 242841733-0-124885
+msgctxt "242841733-0-124885"
+msgid "LIGHT: Vestments of the Warlock (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124884
+msgctxt "242841733-0-124884"
+msgid "LIGHT: Vestments of the Warlock (Head)"
+msgstr ""
+
+#: 242841733-0-124883
+msgctxt "242841733-0-124883"
+msgid "LIGHT: Twilight Remedy"
+msgstr ""
+
+#: 242841733-0-124882
+msgctxt "242841733-0-124882"
+msgid "LIGHT: Twilight Remedy (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124881
+msgctxt "242841733-0-124881"
+msgid "LIGHT: Twilight Remedy (Armor)"
+msgstr ""
+
+#: 242841733-0-124880
+msgctxt "242841733-0-124880"
+msgid "LIGHT: Twilight Remedy (Weapons)"
+msgstr ""
+
+#: 242841733-0-124879
+msgctxt "242841733-0-124879"
+msgid "LIGHT: Twilight Remedy (Shield)"
+msgstr ""
+
+#: 242841733-0-124878
+msgctxt "242841733-0-124878"
+msgid "LIGHT: Twilight Remedy (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124877
+msgctxt "242841733-0-124877"
+msgid "LIGHT: Twilight Remedy (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124876
+msgctxt "242841733-0-124876"
+msgid "LIGHT: Twilight Remedy (Bow)"
+msgstr ""
+
+#: 242841733-0-124875
+msgctxt "242841733-0-124875"
+msgid "LIGHT: Twilight Remedy (One Handed)"
+msgstr ""
+
+#: 242841733-0-124874
+msgctxt "242841733-0-124874"
+msgid "LIGHT: Twilight Remedy (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124873
+msgctxt "242841733-0-124873"
+msgid "LIGHT: Twilight Remedy (Feet)"
+msgstr ""
+
+#: 242841733-0-124872
+msgctxt "242841733-0-124872"
+msgid "LIGHT: Twilight Remedy (Legs)"
+msgstr ""
+
+#: 242841733-0-124871
+msgctxt "242841733-0-124871"
+msgid "LIGHT: Twilight Remedy (Waist)"
+msgstr ""
+
+#: 242841733-0-124870
+msgctxt "242841733-0-124870"
+msgid "LIGHT: Twilight Remedy (Hands)"
+msgstr ""
+
+#: 242841733-0-124869
+msgctxt "242841733-0-124869"
+msgid "LIGHT: Twilight Remedy (Chest)"
+msgstr ""
+
+#: 242841733-0-124868
+msgctxt "242841733-0-124868"
+msgid "LIGHT: Twilight Remedy (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124867
+msgctxt "242841733-0-124867"
+msgid "LIGHT: Twilight Remedy (Head)"
+msgstr ""
+
+#: 242841733-0-124866
+msgctxt "242841733-0-124866"
+msgid "LIGHT: Spinner's Garments"
+msgstr ""
+
+#: 242841733-0-124865
+msgctxt "242841733-0-124865"
+msgid "LIGHT: Spinner's Garments (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124864
+msgctxt "242841733-0-124864"
+msgid "LIGHT: Spinner's Garments (Armor)"
+msgstr ""
+
+#: 242841733-0-124863
+msgctxt "242841733-0-124863"
+msgid "LIGHT: Spinner's Garments (Weapons)"
+msgstr ""
+
+#: 242841733-0-124862
+msgctxt "242841733-0-124862"
+msgid "LIGHT: Spinner's Garments (Shield)"
+msgstr ""
+
+#: 242841733-0-124861
+msgctxt "242841733-0-124861"
+msgid "LIGHT: Spinner's Garments (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124860
+msgctxt "242841733-0-124860"
+msgid "LIGHT: Spinner's Garments (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124859
+msgctxt "242841733-0-124859"
+msgid "LIGHT: Spinner's Garments (Bow)"
+msgstr ""
+
+#: 242841733-0-124858
+msgctxt "242841733-0-124858"
+msgid "LIGHT: Spinner's Garments (One Handed)"
+msgstr ""
+
+#: 242841733-0-124857
+msgctxt "242841733-0-124857"
+msgid "LIGHT: Spinner's Garments (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124856
+msgctxt "242841733-0-124856"
+msgid "LIGHT: Spinner's Garments (Feet)"
+msgstr ""
+
+#: 242841733-0-124855
+msgctxt "242841733-0-124855"
+msgid "LIGHT: Spinner's Garments (Legs)"
+msgstr ""
+
+#: 242841733-0-124854
+msgctxt "242841733-0-124854"
+msgid "LIGHT: Spinner's Garments (Waist)"
+msgstr ""
+
+#: 242841733-0-124853
+msgctxt "242841733-0-124853"
+msgid "LIGHT: Spinner's Garments (Hands)"
+msgstr ""
+
+#: 242841733-0-124852
+msgctxt "242841733-0-124852"
+msgid "LIGHT: Spinner's Garments (Chest)"
+msgstr ""
+
+#: 242841733-0-124851
+msgctxt "242841733-0-124851"
+msgid "LIGHT: Spinner's Garments (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124850
+msgctxt "242841733-0-124850"
+msgid "LIGHT: Spinner's Garments (Head)"
+msgstr ""
+
+#: 242841733-0-124849
+msgctxt "242841733-0-124849"
+msgid "LIGHT: Spell Power Cure"
+msgstr ""
+
+#: 242841733-0-124848
+msgctxt "242841733-0-124848"
+msgid "LIGHT: Spell Power Cure (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124847
+msgctxt "242841733-0-124847"
+msgid "LIGHT: Spell Power Cure (Armor)"
+msgstr ""
+
+#: 242841733-0-124846
+msgctxt "242841733-0-124846"
+msgid "LIGHT: Spell Power Cure (Weapons)"
+msgstr ""
+
+#: 242841733-0-124845
+msgctxt "242841733-0-124845"
+msgid "LIGHT: Spell Power Cure (Shield)"
+msgstr ""
+
+#: 242841733-0-124844
+msgctxt "242841733-0-124844"
+msgid "LIGHT: Spell Power Cure (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124843
+msgctxt "242841733-0-124843"
+msgid "LIGHT: Spell Power Cure (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124842
+msgctxt "242841733-0-124842"
+msgid "LIGHT: Spell Power Cure (Bow)"
+msgstr ""
+
+#: 242841733-0-124841
+msgctxt "242841733-0-124841"
+msgid "LIGHT: Spell Power Cure (One Handed)"
+msgstr ""
+
+#: 242841733-0-124840
+msgctxt "242841733-0-124840"
+msgid "LIGHT: Spell Power Cure (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124839
+msgctxt "242841733-0-124839"
+msgid "LIGHT: Spell Power Cure (Feet)"
+msgstr ""
+
+#: 242841733-0-124838
+msgctxt "242841733-0-124838"
+msgid "LIGHT: Spell Power Cure (Legs)"
+msgstr ""
+
+#: 242841733-0-124837
+msgctxt "242841733-0-124837"
+msgid "LIGHT: Spell Power Cure (Waist)"
+msgstr ""
+
+#: 242841733-0-124836
+msgctxt "242841733-0-124836"
+msgid "LIGHT: Spell Power Cure (Hands)"
+msgstr ""
+
+#: 242841733-0-124835
+msgctxt "242841733-0-124835"
+msgid "LIGHT: Spell Power Cure (Chest)"
+msgstr ""
+
+#: 242841733-0-124834
+msgctxt "242841733-0-124834"
+msgid "LIGHT: Spell Power Cure (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124833
+msgctxt "242841733-0-124833"
+msgid "LIGHT: Spell Power Cure (Head)"
+msgstr ""
+
+#: 242841733-0-124832
+msgctxt "242841733-0-124832"
+msgid "LIGHT: Shroud of the Lich"
+msgstr ""
+
+#: 242841733-0-124831
+msgctxt "242841733-0-124831"
+msgid "LIGHT: Shroud of the Lich (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124830
+msgctxt "242841733-0-124830"
+msgid "LIGHT: Shroud of the Lich (Armor)"
+msgstr ""
+
+#: 242841733-0-124829
+msgctxt "242841733-0-124829"
+msgid "LIGHT: Shroud of the Lich (Weapons)"
+msgstr ""
+
+#: 242841733-0-124828
+msgctxt "242841733-0-124828"
+msgid "LIGHT: Shroud of the Lich (Shield)"
+msgstr ""
+
+#: 242841733-0-124827
+msgctxt "242841733-0-124827"
+msgid "LIGHT: Shroud of the Lich (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124826
+msgctxt "242841733-0-124826"
+msgid "LIGHT: Shroud of the Lich (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124825
+msgctxt "242841733-0-124825"
+msgid "LIGHT: Shroud of the Lich (Bow)"
+msgstr ""
+
+#: 242841733-0-124824
+msgctxt "242841733-0-124824"
+msgid "LIGHT: Shroud of the Lich (One Handed)"
+msgstr ""
+
+#: 242841733-0-124823
+msgctxt "242841733-0-124823"
+msgid "LIGHT: Shroud of the Lich (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124822
+msgctxt "242841733-0-124822"
+msgid "LIGHT: Shroud of the Lich (Feet)"
+msgstr ""
+
+#: 242841733-0-124821
+msgctxt "242841733-0-124821"
+msgid "LIGHT: Shroud of the Lich (Legs)"
+msgstr ""
+
+#: 242841733-0-124820
+msgctxt "242841733-0-124820"
+msgid "LIGHT: Shroud of the Lich (Waist)"
+msgstr ""
+
+#: 242841733-0-124819
+msgctxt "242841733-0-124819"
+msgid "LIGHT: Shroud of the Lich (Hands)"
+msgstr ""
+
+#: 242841733-0-124818
+msgctxt "242841733-0-124818"
+msgid "LIGHT: Shroud of the Lich (Chest)"
+msgstr ""
+
+#: 242841733-0-124817
+msgctxt "242841733-0-124817"
+msgid "LIGHT: Shroud of the Lich (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124816
+msgctxt "242841733-0-124816"
+msgid "LIGHT: Shroud of the Lich (Head)"
+msgstr ""
+
+#: 242841733-0-124815
+msgctxt "242841733-0-124815"
+msgid "LIGHT: Robes of Transmutation"
+msgstr ""
+
+#: 242841733-0-124814
+msgctxt "242841733-0-124814"
+msgid "LIGHT: Robes of Transmutation (Jewelry)"
+msgstr "LIGHT 로브s of Transmutation (Jewelry)"
+
+#: 242841733-0-124813
+msgctxt "242841733-0-124813"
+msgid "LIGHT: Robes of Transmutation (Armor)"
+msgstr "LIGHT 로브s of Transmutation (Armor)"
+
+#: 242841733-0-124812
+msgctxt "242841733-0-124812"
+msgid "LIGHT: Robes of Transmutation (Weapons)"
+msgstr "LIGHT 로브s of Transmutation (Weapons)"
+
+#: 242841733-0-124811
+msgctxt "242841733-0-124811"
+msgid "LIGHT: Robes of Transmutation (Shield)"
+msgstr "LIGHT 로브s of Transmutation (Shield)"
+
+#: 242841733-0-124810
+msgctxt "242841733-0-124810"
+msgid "LIGHT: Robes of Transmutation (Restoration Staff)"
+msgstr "LIGHT 로브s of Transmutation (Restoration Staff)"
+
+#: 242841733-0-124809
+msgctxt "242841733-0-124809"
+msgid "LIGHT: Robes of Transmutation (Destruction Staff)"
+msgstr "LIGHT 로브s of Transmutation (Destruction Staff)"
+
+#: 242841733-0-124808
+msgctxt "242841733-0-124808"
+msgid "LIGHT: Robes of Transmutation (Bow)"
+msgstr "LIGHT 로브s of Transmutation (Bow)"
+
+#: 242841733-0-124807
+msgctxt "242841733-0-124807"
+msgid "LIGHT: Robes of Transmutation (One Handed)"
+msgstr "LIGHT 로브s of Transmutation (One Handed)"
+
+#: 242841733-0-124806
+msgctxt "242841733-0-124806"
+msgid "LIGHT: Robes of Transmutation (Two Handed)"
+msgstr "LIGHT 로브s of Transmutation (Two Handed)"
+
+#: 242841733-0-124805
+msgctxt "242841733-0-124805"
+msgid "LIGHT: Robes of Transmutation (Feet)"
+msgstr "LIGHT 로브s of Transmutation (Feet)"
+
+#: 242841733-0-124804
+msgctxt "242841733-0-124804"
+msgid "LIGHT: Robes of Transmutation (Legs)"
+msgstr "LIGHT 로브s of Transmutation (Legs)"
+
+#: 242841733-0-124803
+msgctxt "242841733-0-124803"
+msgid "LIGHT: Robes of Transmutation (Waist)"
+msgstr "LIGHT 로브s of Transmutation (Waist)"
+
+#: 242841733-0-124802
+msgctxt "242841733-0-124802"
+msgid "LIGHT: Robes of Transmutation (Hands)"
+msgstr "LIGHT 로브s of Transmutation (Hands)"
+
+#: 242841733-0-124801
+msgctxt "242841733-0-124801"
+msgid "LIGHT: Robes of Transmutation (Chest)"
+msgstr "LIGHT 로브s of Transmutation (Chest)"
+
+#: 242841733-0-124800
+msgctxt "242841733-0-124800"
+msgid "LIGHT: Robes of Transmutation (Shoulders)"
+msgstr "LIGHT 로브s of Transmutation (Shoulders)"
+
+#: 242841733-0-124799
+msgctxt "242841733-0-124799"
+msgid "LIGHT: Robes of Transmutation (Head)"
+msgstr "LIGHT 로브s of Transmutation (Head)"
+
+#: 242841733-0-124798
+msgctxt "242841733-0-124798"
+msgid "LIGHT: Necropotence (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124797
+msgctxt "242841733-0-124797"
+msgid "LIGHT: Necropotence (Armor)"
+msgstr ""
+
+#: 242841733-0-124796
+msgctxt "242841733-0-124796"
+msgid "LIGHT: Necropotence (Weapons)"
+msgstr ""
+
+#: 242841733-0-124795
+msgctxt "242841733-0-124795"
+msgid "LIGHT: Necropotence (Shield)"
+msgstr ""
+
+#: 242841733-0-124794
+msgctxt "242841733-0-124794"
+msgid "LIGHT: Necropotence (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124793
+msgctxt "242841733-0-124793"
+msgid "LIGHT: Necropotence (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124792
+msgctxt "242841733-0-124792"
+msgid "LIGHT: Necropotence (Bow)"
+msgstr ""
+
+#: 242841733-0-124791
+msgctxt "242841733-0-124791"
+msgid "LIGHT: Necropotence (One Handed)"
+msgstr ""
+
+#: 242841733-0-124790
+msgctxt "242841733-0-124790"
+msgid "LIGHT: Necropotence (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124789
+msgctxt "242841733-0-124789"
+msgid "LIGHT: Necropotence (Feet)"
+msgstr ""
+
+#: 242841733-0-124788
+msgctxt "242841733-0-124788"
+msgid "LIGHT: Necropotence (Legs)"
+msgstr ""
+
+#: 242841733-0-124787
+msgctxt "242841733-0-124787"
+msgid "LIGHT: Necropotence (Waist)"
+msgstr ""
+
+#: 242841733-0-124786
+msgctxt "242841733-0-124786"
+msgid "LIGHT: Necropotence (Hands)"
+msgstr ""
+
+#: 242841733-0-124785
+msgctxt "242841733-0-124785"
+msgid "LIGHT: Necropotence (Chest)"
+msgstr ""
+
+#: 242841733-0-124784
+msgctxt "242841733-0-124784"
+msgid "LIGHT: Necropotence (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124783
+msgctxt "242841733-0-124783"
+msgid "LIGHT: Necropotence (Head)"
+msgstr ""
+
+#: 242841733-0-124782
+msgctxt "242841733-0-124782"
+msgid "LIGHT: Mother's Sorrow"
+msgstr ""
+
+#: 242841733-0-124781
+msgctxt "242841733-0-124781"
+msgid "LIGHT: Mother's Sorrow (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124780
+msgctxt "242841733-0-124780"
+msgid "LIGHT: Mother's Sorrow (Armor)"
+msgstr ""
+
+#: 242841733-0-124779
+msgctxt "242841733-0-124779"
+msgid "LIGHT: Mother's Sorrow (Weapons)"
+msgstr ""
+
+#: 242841733-0-124778
+msgctxt "242841733-0-124778"
+msgid "LIGHT: Mother's Sorrow (Shield)"
+msgstr ""
+
+#: 242841733-0-124777
+msgctxt "242841733-0-124777"
+msgid "LIGHT: Mother's Sorrow (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124776
+msgctxt "242841733-0-124776"
+msgid "LIGHT: Mother's Sorrow (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124775
+msgctxt "242841733-0-124775"
+msgid "LIGHT: Mother's Sorrow (Bow)"
+msgstr ""
+
+#: 242841733-0-124774
+msgctxt "242841733-0-124774"
+msgid "LIGHT: Mother's Sorrow (One Handed)"
+msgstr ""
+
+#: 242841733-0-124773
+msgctxt "242841733-0-124773"
+msgid "LIGHT: Mother's Sorrow (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124772
+msgctxt "242841733-0-124772"
+msgid "LIGHT: Mother's Sorrow (Feet)"
+msgstr ""
+
+#: 242841733-0-124771
+msgctxt "242841733-0-124771"
+msgid "LIGHT: Mother's Sorrow (Legs)"
+msgstr ""
+
+#: 242841733-0-124770
+msgctxt "242841733-0-124770"
+msgid "LIGHT: Mother's Sorrow (Waist)"
+msgstr ""
+
+#: 242841733-0-124769
+msgctxt "242841733-0-124769"
+msgid "LIGHT: Mother's Sorrow (Hands)"
+msgstr ""
+
+#: 242841733-0-124768
+msgctxt "242841733-0-124768"
+msgid "LIGHT: Mother's Sorrow (Chest)"
+msgstr ""
+
+#: 242841733-0-124767
+msgctxt "242841733-0-124767"
+msgid "LIGHT: Mother's Sorrow (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124766
+msgctxt "242841733-0-124766"
+msgid "LIGHT: Mother's Sorrow (Head)"
+msgstr ""
+
+#: 242841733-0-124765
+msgctxt "242841733-0-124765"
+msgid "LIGHT: Moondancer (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124764
+msgctxt "242841733-0-124764"
+msgid "LIGHT: Moondancer (Armor)"
+msgstr ""
+
+#: 242841733-0-124763
+msgctxt "242841733-0-124763"
+msgid "LIGHT: Moondancer (Weapons)"
+msgstr ""
+
+#: 242841733-0-124762
+msgctxt "242841733-0-124762"
+msgid "LIGHT: Meritorious Service (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124761
+msgctxt "242841733-0-124761"
+msgid "LIGHT: Meritorious Service (Armor)"
+msgstr ""
+
+#: 242841733-0-124760
+msgctxt "242841733-0-124760"
+msgid "LIGHT: Meritorious Service (Weapons)"
+msgstr ""
+
+#: 242841733-0-124759
+msgctxt "242841733-0-124759"
+msgid "LIGHT: Meritorious Service (Shield)"
+msgstr ""
+
+#: 242841733-0-124758
+msgctxt "242841733-0-124758"
+msgid "LIGHT: Meritorious (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124757
+msgctxt "242841733-0-124757"
+msgid "LIGHT: Meritorious Service (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124756
+msgctxt "242841733-0-124756"
+msgid "LIGHT: Meritorious Service (Bow)"
+msgstr ""
+
+#: 242841733-0-124755
+msgctxt "242841733-0-124755"
+msgid "LIGHT: Meritorious Service (One Handed)"
+msgstr ""
+
+#: 242841733-0-124754
+msgctxt "242841733-0-124754"
+msgid "LIGHT: Meritorious Service (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124753
+msgctxt "242841733-0-124753"
+msgid "LIGHT: Infallible Mage (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124752
+msgctxt "242841733-0-124752"
+msgid "LIGHT: Infallible Mage (Armor)"
+msgstr ""
+
+#: 242841733-0-124751
+msgctxt "242841733-0-124751"
+msgid "LIGHT: Infallible Mage (Weapons)"
+msgstr ""
+
+#: 242841733-0-124750
+msgctxt "242841733-0-124750"
+msgid "LIGHT: Infallible Mage (Shield)"
+msgstr ""
+
+#: 242841733-0-124749
+msgctxt "242841733-0-124749"
+msgid "LIGHT: Infallible Mage (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124748
+msgctxt "242841733-0-124748"
+msgid "LIGHT: Infallible Mage (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124747
+msgctxt "242841733-0-124747"
+msgid "LIGHT: Infallible Mage (Bow)"
+msgstr ""
+
+#: 242841733-0-124746
+msgctxt "242841733-0-124746"
+msgid "LIGHT: Infallible Mage (One Handed)"
+msgstr ""
+
+#: 242841733-0-124745
+msgctxt "242841733-0-124745"
+msgid "LIGHT: Infallible Mage (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124744
+msgctxt "242841733-0-124744"
+msgid "LIGHT: Imperial Physique"
+msgstr ""
+
+#: 242841733-0-124743
+msgctxt "242841733-0-124743"
+msgid "LIGHT: Imperial Physique (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124742
+msgctxt "242841733-0-124742"
+msgid "LIGHT: Imperial Physique (Armor)"
+msgstr ""
+
+#: 242841733-0-124741
+msgctxt "242841733-0-124741"
+msgid "LIGHT: Imperial Physique (Weapons)"
+msgstr ""
+
+#: 242841733-0-124740
+msgctxt "242841733-0-124740"
+msgid "LIGHT: Imperial Physique (Shield)"
+msgstr ""
+
+#: 242841733-0-124739
+msgctxt "242841733-0-124739"
+msgid "LIGHT: Imperial Physique (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124738
+msgctxt "242841733-0-124738"
+msgid "LIGHT: Imperial Physique (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124737
+msgctxt "242841733-0-124737"
+msgid "LIGHT: Imperial Physique (Bow)"
+msgstr ""
+
+#: 242841733-0-124736
+msgctxt "242841733-0-124736"
+msgid "LIGHT: Imperial Physique (One Handed)"
+msgstr ""
+
+#: 242841733-0-124735
+msgctxt "242841733-0-124735"
+msgid "LIGHT: Imperial Physique (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124734
+msgctxt "242841733-0-124734"
+msgid "LIGHT: Imperial Physique (Feet)"
+msgstr ""
+
+#: 242841733-0-124733
+msgctxt "242841733-0-124733"
+msgid "LIGHT: Imperial Physique (Legs)"
+msgstr ""
+
+#: 242841733-0-124732
+msgctxt "242841733-0-124732"
+msgid "LIGHT: Imperial Physique (Waist)"
+msgstr ""
+
+#: 242841733-0-124731
+msgctxt "242841733-0-124731"
+msgid "LIGHT: Imperial Physique (Hands)"
+msgstr ""
+
+#: 242841733-0-124730
+msgctxt "242841733-0-124730"
+msgid "LIGHT: Imperial Physique (Chest)"
+msgstr ""
+
+#: 242841733-0-124729
+msgctxt "242841733-0-124729"
+msgid "LIGHT: Imperial Physique (Shoulders)"
+msgstr ""
+
+#: 242841733-0-124728
+msgctxt "242841733-0-124728"
+msgid "LIGHT: Imperial Physique (Head)"
+msgstr ""
+
+#: 242841733-0-124727
+msgctxt "242841733-0-124727"
+msgid "LIGHT: Desert Rose (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124726
+msgctxt "242841733-0-124726"
+msgid "LIGHT: Desert Rose (Armor)"
+msgstr ""
+
+#: 242841733-0-124725
+msgctxt "242841733-0-124725"
+msgid "LIGHT: Desert Rose (Weapons)"
+msgstr ""
+
+#: 242841733-0-124724
+msgctxt "242841733-0-124724"
+msgid "LIGHT: Desert Rose (Shield)"
+msgstr ""
+
+#: 242841733-0-124723
+msgctxt "242841733-0-124723"
+msgid "LIGHT: Desert Rose (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124722
+msgctxt "242841733-0-124722"
+msgid "LIGHT: Desert Rose (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124721
+msgctxt "242841733-0-124721"
+msgid "LIGHT: Desert Rose (Bow)"
+msgstr ""
+
+#: 242841733-0-124720
+msgctxt "242841733-0-124720"
+msgid "LIGHT: Desert Rose (One Handed)"
+msgstr ""
+
+#: 242841733-0-124719
+msgctxt "242841733-0-124719"
+msgid "LIGHT: Desert Rose (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124718
+msgctxt "242841733-0-124718"
+msgid "LIGHT: Burning Spellweave (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124717
+msgctxt "242841733-0-124717"
+msgid "LIGHT: Burning Spellweave (Armor)"
+msgstr ""
+
+#: 242841733-0-124716
+msgctxt "242841733-0-124716"
+msgid "LIGHT: Burning Spellweave (Weapons)"
+msgstr ""
+
+#: 242841733-0-124715
+msgctxt "242841733-0-124715"
+msgid "LIGHT: Burning Spellweave (Shield)"
+msgstr ""
+
+#: 242841733-0-124714
+msgctxt "242841733-0-124714"
+msgid "LIGHT: Burning Spellweave (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124713
+msgctxt "242841733-0-124713"
+msgid "LIGHT: Burning Spellweave (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124712
+msgctxt "242841733-0-124712"
+msgid "LIGHT: Burning Spellweave (Bow)"
+msgstr ""
+
+#: 242841733-0-124711
+msgctxt "242841733-0-124711"
+msgid "LIGHT: Burning Spellweave (One Handed)"
+msgstr ""
+
+#: 242841733-0-124710
+msgctxt "242841733-0-124710"
+msgid "LIGHT: Burning Spellweave (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124709
+msgctxt "242841733-0-124709"
+msgid "LIGHT: Amber Plasm"
+msgstr ""
+
+#: 242841733-0-124708
+msgctxt "242841733-0-124708"
+msgid "LIGHT: Amber Plasm (Armor)"
+msgstr ""
+
+#: 242841733-0-124707
+msgctxt "242841733-0-124707"
+msgid "LIGHT: Amber Plasm (Weapons)"
+msgstr ""
+
+#: 242841733-0-124706
+msgctxt "242841733-0-124706"
+msgid "LIGHT: Amber Plasm (Shield)"
+msgstr ""
+
+#: 242841733-0-124705
+msgctxt "242841733-0-124705"
+msgid "LIGHT: Amber Plasm (Restoration Staff)"
+msgstr ""
+
+#: 242841733-0-124704
+msgctxt "242841733-0-124704"
+msgid "LIGHT: Amber Plasm (Destruction Staff)"
+msgstr ""
+
+#: 242841733-0-124703
+msgctxt "242841733-0-124703"
+msgid "LIGHT: Amber Plasm (Bow)"
+msgstr ""
+
+#: 242841733-0-124702
+msgctxt "242841733-0-124702"
+msgid "LIGHT: Amber Plasm (One Handed)"
+msgstr ""
+
+#: 242841733-0-124701
+msgctxt "242841733-0-124701"
+msgid "LIGHT: Amber Plasm (Two Handed)"
+msgstr ""
+
+#: 242841733-0-124700
+msgctxt "242841733-0-124700"
+msgid "LIGHT: Amber Plasm (Jewelry)"
+msgstr ""
+
+#: 242841733-0-124699
+msgctxt "242841733-0-124699"
+msgid "LIGHT: Amber Plasm (Feet)"
+msgstr ""
+
+#: 242841733-0-124698
+msgctxt "242841733-0-124698"
+msgid "LIGHT: Amber Plasm (Legs)"
+msgstr ""
+
+#: 242841733-0-124697
+msgctxt "242841733-0-124697"
+msgid "LIGHT: Amber Plasm (Waist)"
+msgstr ""
+
+#: 242841733-0-124696
+msgctxt "242841733-0-124696"
+msgid "LIGHT: Amber Plasm (Hands)"
+msgstr ""
+
+#: 242841733-0-124695
+msgctxt "242841733-0-124695"
+msgid "LIGHT: Amber Plasm (Chest)"
+msgstr ""
+
+#: 228378404-0-124659
+msgctxt "228378404-0-124659"
+msgid ""
+"Contains a Sixth House Robe Costume. This can be traded, mailed, and posted "
+"to Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its "
+"contents are bound to your account."
+msgstr ""
+
+#: 242841733-0-121543
+msgctxt "242841733-0-121543"
+msgid "LIGHT: Amber Plasm (Head)"
+msgstr ""
+
+#: 242841733-0-121542
+msgctxt "242841733-0-121542"
+msgid "LIGHT: Almalexia's Mercy (Armor)"
+msgstr ""
+
+#: 242841733-0-121534
+msgctxt "242841733-0-121534"
+msgid "LIGHT: Almalexia's Mercy (Weapons)"
+msgstr ""
+
+#: 228378404-0-121526
+msgctxt "228378404-0-121526"
+msgid ""
+"Supplies with a Surprise: Tel Var stones, useful items for the Alliance War, "
+"and a Random Rarity. Once per day per account, during Midyear Mayhem, will "
+"also contain one Standard-Bearer's Proof."
+msgstr "깜짝 선물 상자입니다. 텔 바 스톤, 연합 전쟁에 유용하게 쓰이는 아이템들, 그리고 무작위한 희귀품들이 들어 있습니다."
+
+#: 242841733-0-121524
+msgctxt "242841733-0-121524"
+msgid "LIGHT: Alessian Order (Armor)"
+msgstr ""
+
+#: 228378404-0-121402
+msgctxt "228378404-0-121402"
+msgid ""
+"This coffin contains a large number of skeletons, enchanted to withstand "
+"your blows time and time again."
+msgstr ""
+
+#: 228378404-0-121364
+msgctxt "228378404-0-121364"
+msgid ""
+"A sealed furnishing plan meant for House Hlaalu craftspersons. Opening this "
+"will reveal a random Epic furnishing plan."
+msgstr "흐랄루 가문의 공예가들을 위해 작성된 가구 도면입니다. 이 서류의 봉인을 열면 무작위한 에픽 가구 도면을 얻을 수 있습니다."
+
+#: 242841733-0-121277
+msgctxt "242841733-0-121277"
+msgid "Jewelry: Fiords"
+msgstr ""
+
+#: 228378404-0-121264
+msgctxt "228378404-0-121264"
+msgid ""
+"This envelope contains the deeds to Large-sized dwellings throughout Tamriel."
+""
+msgstr ""
+
+#: 242841733-0-121252
+msgctxt "242841733-0-121252"
+msgid "Hist Bark"
+msgstr ""
+
+#: 242841733-0-121251
+msgctxt "242841733-0-121251"
+msgid "Law of Julianos"
+msgstr ""
+
+#: 228378404-0-121220
+msgctxt "228378404-0-121220"
+msgid ""
+"This elaborate, decorated box has some unknown items of Yokudan origin "
+"inside."
+msgstr ""
+
+#: 242841733-0-120067
+msgctxt "242841733-0-120067"
+msgid "LIGHT: Alessian Order (Jewelry)"
+msgstr ""
+
+#: 228378404-0-119692
+msgctxt "228378404-0-119692"
+msgid ""
+"Contains a Cherry Blossom Branch. This can be traded, mailed, and posted to "
+"Guild Banks and Guild Stores. NOTE: Once opened, the Runebox and its "
+"contents are bound to your account."
+msgstr ""
+"벚꽃 가지가 들어있습니다. 이 룬 상자는 거래, 메일 발송, 길드 은행과 길드 상점으로 전송이 가능합니다. 주의: 한번 열면 룬 상자와 "
+"내용물은 플레이어의 계정에 귀속됩니다."
+
+#: 242841733-0-114920
+msgctxt "242841733-0-114920"
+msgid "MONSTER: Maw of the Infernal"
+msgstr ""
+
+#: 242841733-0-114919
+msgctxt "242841733-0-114919"
+msgid "MONSTER: Chokethorn"
+msgstr ""
+
+#: 242841733-0-114918
+msgctxt "242841733-0-114918"
+msgid "MONSTER: Selene"
+msgstr ""
+
+#: 242841733-0-114917
+msgctxt "242841733-0-114917"
+msgid "MONSTER: Scourge Harvester"
+msgstr ""
+
+#: 242841733-0-114916
+msgctxt "242841733-0-114916"
+msgid "MONSTER: Valkyn Skoria"
+msgstr ""
+
+#: 242841733-0-114915
+msgctxt "242841733-0-114915"
+msgid "MONSTER: Grothdarr"
+msgstr ""
+
+#: 242841733-0-114914
+msgctxt "242841733-0-114914"
+msgid "MONSTER: Bloodspawn"
+msgstr ""
+
+#: 242841733-0-114913
+msgctxt "242841733-0-114913"
+msgid "MONSTER: Velidreth"
+msgstr ""
+
+#: 242841733-0-114912
+msgctxt "242841733-0-114912"
+msgid "MONSTER: Engine Guardian"
+msgstr ""
+
+#: 242841733-0-114911
+msgctxt "242841733-0-114911"
+msgid "HEAVY: Hunding's Rage"
+msgstr ""
+
+#: 242841733-0-114910
+msgctxt "242841733-0-114910"
+msgid "HEAVY: Law of Julianos"
+msgstr ""
+
+#: 242841733-0-114909
+msgctxt "242841733-0-114909"
+msgid "HEAVY: Reactive Armor"
+msgstr ""
+
+#: 242841733-0-114908
+msgctxt "242841733-0-114908"
+msgid "HEAVY: Seventh Legion Brute"
+msgstr ""
+
+#: 242841733-0-114907
+msgctxt "242841733-0-114907"
+msgid "HEAVY: Storm Knight's Plate"
+msgstr ""
+
+#: 242841733-0-114906
+msgctxt "242841733-0-114906"
+msgid "HEAVY: Fasalla's Guile"
+msgstr ""
+
+#: 242841733-0-114905
+msgctxt "242841733-0-114905"
+msgid "HEAVY: Black Rose"
+msgstr ""
+
+#: 242841733-0-114904
+msgctxt "242841733-0-114904"
+msgid "MEDIUM: Draugr Hulk"
+msgstr ""
+
+#: 242841733-0-114903
+msgctxt "242841733-0-114903"
+msgid "MEDIUM: Hunding's Rage"
+msgstr ""
+
+#: 242841733-0-114902
+msgctxt "242841733-0-114902"
+msgid "MEDIUM: Night Terror"
+msgstr ""
+
+#: 242841733-0-114901
+msgctxt "242841733-0-114901"
+msgid "MEDIUM: Viper's Sting"
+msgstr ""
+
+#: 242841733-0-114900
+msgctxt "242841733-0-114900"
+msgid "MEDIUM: Barkskin"
+msgstr ""
+
+#: 242841733-0-114899
+msgctxt "242841733-0-114899"
+msgid "LIGHT: Robes of the Hist"
+msgstr "LIGHT 로브s of the Hist"
+
+#: 242841733-0-114898
+msgctxt "242841733-0-114898"
+msgid "LIGHT: Law of Julianos"
+msgstr ""
+
+#: 242841733-0-114897
+msgctxt "242841733-0-114897"
+msgid "LIGHT: Seducer"
+msgstr ""
+
+#: 242841733-0-114896
+msgctxt "242841733-0-114896"
+msgid "LIGHT: Robes of Transmutation"
+msgstr "LIGHT 로브s of Transmutation"
+
+#: 242841733-0-114280
+msgctxt "242841733-0-114280"
+msgid "Trial Sets"
+msgstr ""
+
+#: 242841733-0-114279
+msgctxt "242841733-0-114279"
+msgid "Dungeon Sets"
+msgstr ""
+
+#: 228378404-0-114278
+msgctxt "228378404-0-114278"
+msgid ""
+"Contains all item sets found in Overland Zones (base game, DLC, and Chapter)."
+""
+msgstr ""
+
+#: 242841733-0-114275
+msgctxt "242841733-0-114275"
+msgid "Maelstrom Weapons"
+msgstr ""
+
+#: 228378404-0-114274
+msgctxt "228378404-0-114274"
+msgid "A Monster Mask set found in Veteran Blessed Crucible."
+msgstr ""
+
+#: 242841733-0-114206
+msgctxt "242841733-0-114206"
+msgid "Jewelry: Shalk Exoskeleton"
+msgstr ""
+
+#: 242841733-0-114205
+msgctxt "242841733-0-114205"
+msgid "Shalk Exoskeleton Gear"
+msgstr ""
+
+#: 228378404-0-114204
+msgctxt "228378404-0-114204"
+msgid "A Heavy Armor set found in Greenshade."
+msgstr ""
+
+#: 228378404-0-114145
+msgctxt "228378404-0-114145"
+msgid "A Light Armor set found in The Rift."
+msgstr ""
+
+#: 242841733-0-114125
+msgctxt "242841733-0-114125"
+msgid "Jewelry: Buffer of the Swift"
+msgstr ""
+
+#: 242841733-0-114124
+msgctxt "242841733-0-114124"
+msgid "Buffer of the Swift"
+msgstr "The Swift: 완충제"
+
+#: 242841733-0-114123
+msgctxt "242841733-0-114123"
+msgid "Weapons: Arch-Mage"
+msgstr ""
+
+#: 242841733-0-114122
+msgctxt "242841733-0-114122"
+msgid "Jewelry: Arch-Mage"
+msgstr ""
+
+#: 242841733-0-114121
+msgctxt "242841733-0-114121"
+msgid "Arch-Mage"
+msgstr ""
+
+#: 242841733-0-114120
+msgctxt "242841733-0-114120"
+msgid "Weapons: Dreamer's Mantle"
+msgstr ""
+
+#: 242841733-0-114119
+msgctxt "242841733-0-114119"
+msgid "Jewelry: Dreamer's Mantle"
+msgstr ""
+
+#: 242841733-0-114118
+msgctxt "242841733-0-114118"
+msgid "Dreamer's Mantle"
+msgstr "Dreamer: 꿈꾸는 자의 어깨치장구(Mantle)"
+
+#: 242841733-0-114117
+msgctxt "242841733-0-114117"
+msgid "Weapons: Bloodthorn's Touch"
+msgstr ""
+
+#: 242841733-0-114116
+msgctxt "242841733-0-114116"
+msgid "Jewelry: Bloodthorn's Touch"
+msgstr ""
+
+#: 242841733-0-114115
+msgctxt "242841733-0-114115"
+msgid "Almalexia's Mercy"
+msgstr ""
+
+#: 242841733-0-114114
+msgctxt "242841733-0-114114"
+msgid "Jewelry: Alessians Order"
+msgstr ""
+
+#: 242841733-0-114113
+msgctxt "242841733-0-114113"
+msgid "Weapons: Alessians Order"
+msgstr ""
+
+#: 242841733-0-114112
+msgctxt "242841733-0-114112"
+msgid "Alessian Order"
+msgstr "알레시안 오더"
+
+#: 242841733-0-114111
+msgctxt "242841733-0-114111"
+msgid "Jewelry: Bloodthorn's Touch"
+msgstr "장신구 : Bloodthorn's Touch"
+
+#: 242841733-0-114110
+msgctxt "242841733-0-114110"
+msgid "Weapons: Bloodthorn's Touch"
+msgstr "무기 : Bloodthorn's Touch"
+
+#: 242841733-0-114109
+msgctxt "242841733-0-114109"
+msgid "Bloodthorn's Touch"
+msgstr ""
+

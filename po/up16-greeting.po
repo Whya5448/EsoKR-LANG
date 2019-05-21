@@ -1,0 +1,43 @@
+# harion01 <harion01@gmail.com>, 2019. #zanata
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"PO-Revision-Date: 2019-04-24 06:47+0000\n"
+"Last-Translator: Copied by Zanata <copied-by-zanata@zanata.org>\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"X-Generator: Zanata 4.6.2\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: 150525940-0-57020
+msgctxt "150525940-0-57020"
+msgid "Here are the items you requested."
+msgstr "당신이 요청한 물건들 여기 있어요."
+
+#: 150525940-0-57013
+msgctxt "150525940-0-57013"
+msgid "Here are the items you requested."
+msgstr "당신이 요청한 물건들 여기 있어요."
+
+#: 150525940-0-56756
+msgctxt "150525940-0-56756"
+msgid "Here are the items you requested."
+msgstr "당신이 요청한 물건들 여기 있어요."
+
+#: 150525940-0-56752
+msgctxt "150525940-0-56752"
+msgid "Here are the items you requested."
+msgstr "당신이 요청한 물건들 여기 있어요."
+
+#: 150525940-0-56748
+msgctxt "150525940-0-56748"
+msgid "Here are the items you requested."
+msgstr "당신이 요청한 물건들 여기 있어요."
+
+#: 150525940-0-56737
+msgctxt "150525940-0-56737"
+msgid "I gathered the items you requested for your hoard."
+msgstr "나는 당신이 당신의 보물을 요구 한 품목들을 모았습니다.-G-"
+
